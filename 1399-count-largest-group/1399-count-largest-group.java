@@ -1,16 +1,19 @@
 class Solution {
     public int countLargestGroup(int n) {
         int[] arr = new int[37];
+        int max = 0;
         for(int i = 1; i<=n; i++){
             int k = sum(i);
-            arr[k]++;
-        }
-        int max = 0;
-        for(int val: arr){
-            if(val>max){
-                max = val;
+            int val = ++arr[k];
+            if (val > max) {
+               max = val;
             }
         }
+        // for(int val: arr){
+        //     if(val>max){
+        //         max = val;
+        //     }
+        // }
         int count = 0;
         for (int val : arr) {
             if (val == max) {
