@@ -14,9 +14,4 @@ class Solution {
         }
         return res;
     }
-    // public static void swap(int[] nums, int i, int j){
-    //     int tamp = nums[i];
-    //     nums[i] = nums[j];
-    //     nums[j] = tamp;
-    // }
 }
