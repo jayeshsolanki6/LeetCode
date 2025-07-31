@@ -23,6 +23,7 @@ class Solution {
     }
     void traverse(TreeNode root){
         if(root == null) return;
+        if(count >= num) return;
         traverse(root.left);
         count++;
         if(count == num){
