@@ -14,24 +14,21 @@
  * }
  */
 class Solution {
-    Stack<Integer> stack = new Stack<>();
-    int num;
+    int count = 0;
+    int res, num;
     public int kthSmallest(TreeNode root, int k) {
         num = k;
         traverse(root);
-        return stack.pop();
+        return res;
     }
     void traverse(TreeNode root){
         if(root == null) return;
-        if(root.left == null && root.right == null){
-            stack.push(root.val);
+        traverse(root.left);
+        count++;
+        if(count == num){
+            res = root.val;
             return;
         }
-        traverse(root.left);
-        if(stack.size() == num) return;
-        stack.push(root.val);
-        if(stack.size() == num) return;
         traverse(root.right);
-        if(stack.size() == num) return;
     }
 }
