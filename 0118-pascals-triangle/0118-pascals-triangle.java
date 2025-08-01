@@ -3,8 +3,16 @@ class Solution {
         List<List<Integer>> list = new ArrayList<>();
         for(int i = 0; i<numRows; i++){
             List<Integer> in = new ArrayList<>();
+            int[] dp = new int[i+1];
+            Arrays.fill(dp, -1);
             for(int j = 0; j<=i; j++){
-                in.add(nCr(i, j));
+                if(dp[j] != -1){
+                    in.add(dp[j]);
+                } else{
+                    int add = nCr(i, j);
+                    in.add(add);
+                    dp[j] = add;
+                }
             }
             list.add(in);
         }
