@@ -21,14 +21,7 @@ class Solution {
         return head;
     }
     int gcd(int x, int y){
-        while(x != 0 && y != 0){
-            if(x > y){
-                x -= y;
-            } else{
-                y -= x;
-            }
-        }
-        if(x == 0) return y;
-        return x;
+        if(x == 0 || y == 0) return x+y;
+        return gcd(y, x%y);
     }
 }
