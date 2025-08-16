@@ -7,7 +7,6 @@ class Solution {
         Queue<int[]> queue = new LinkedList<>();
         queue.add(new int[]{sr, sc});
         int[][] direction = new int[][]{{0, -1}, {0, 1}, {-1, 0}, {1, 0}};
-        int[][] visited = new int[m][n];
 
         while(!queue.isEmpty()){
             int size = queue.size();
@@ -18,9 +17,8 @@ class Solution {
                 for(int[] dir : direction){
                     int ii = i + dir[0];
                     int jj = j + dir[1];
-                    if(ii >= 0 && jj >= 0 && ii < m && jj < n && visited[ii][jj] == 0 && image[ii][jj] == can){
+                    if(ii >= 0 && jj >= 0 && ii < m && jj < n && image[ii][jj] == can && image[ii][jj] != color){
                         image[ii][jj] = color;
-                        visited[ii][jj] = 1;
                         queue.add(new int[]{ii, jj});
                     }
                 }
