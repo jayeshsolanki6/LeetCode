@@ -3,22 +3,14 @@ class Solution {
         Arrays.sort(nums);
         int len = nums.length;
         List<Integer> list = new ArrayList<>();
-        int count = 0;
         int check = len/3;
-        int can = 0;
-        for(int i = 0; i<len; i++){
-            if(count == 0){
-                can = nums[i];
-            }
-            if(can == nums[i]){
-                count++;
-            } else{
-                count = 0;
-                i--;
-            }
-            if(count == check+1){
+        for(int i = 0; i<len; ){
+            int j = i+1;
+            while(j < len && nums[j] == nums[i])j++;
+            if(j-i > check){
                 list.add(nums[i]);
             }
+            i = j;
         }
         return list;
     }
