@@ -1,37 +1,28 @@
 class Solution {
     public int[][] merge(int[][] grid) {
         int row = grid.length;
+        Arrays.sort(grid, (a, b) -> Integer.compare(a[0], b[0]));
+        int i = 0;
         int count = 0;
-        for(int i = 0; i<row; i++){
+        for(int j = 1; j<row; j++){
             if(grid[i][0] == -1) continue;
-            boolean change = false;
-            for(int j = i+1; j<row; j++){
-                if(grid[j][0] == -1) continue;
-                if(grid[i][0] <= grid[j][0] && grid[i][1] >= grid[j][0]){
-                    grid[i][1] = Math.max(grid[i][1], grid[j][1]);
-                    grid[j][0] = -1;
-                    count++;
-                    change = true;
-                } else if(grid[j][0] <= grid[i][0] && grid[j][1] >= grid[i][0]){
-                    grid[i][0] = grid[j][0];
-                    grid[i][1] = Math.max(grid[i][1], grid[j][1]);
-                    grid[j][0] = -1;
-                    count++;
-                    change = true;
-                }
+            if(grid[i][1] >= grid[j][0]){
+                grid[i][1] = Math.max(grid[j][1], grid[i][1]);
+                grid[j][0] = -1;
+                count++;
+            } else{
+                i = j;
             }
-            if(change) i--;
         }
         int[][] ans = new int[row-count][2];
-        int j = 0;
-        for(int i = 0; i<row; i++){
-            if(grid[i][0] != -1){
-                ans[j][0] = grid[i][0];
-                ans[j][1] = grid[i][1];
-                j++;
+        i = 0;
+        for(int[] g : grid){
+            if(g[0] != -1){
+                ans[i][0] = g[0];
+                ans[i][1] = g[1];
+                i++;
             }
         }
         return ans;
-
     }
 }
