@@ -1,22 +1,24 @@
 class Solution {
     List<List<Integer>> list = new ArrayList<>();
     int[] can;
-    int len, target;
+    int len;
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
         len = candidates.length;
         can = candidates;
-        this.target = target;
-        helper(0, new ArrayList<>(), 0);
+        helper(0, new ArrayList<>(), target);
         return list;
     }
-    void helper(int ind, ArrayList<Integer> li, int sum){
-        if(sum == target){
-            list.add(li);
+    void helper(int ind, ArrayList<Integer> li, int target){
+        if(target == 0){
+            list.add(new ArrayList<>(li));
             return;
         }
-        if(sum > target || ind == len) return;
-        helper(ind+1, new ArrayList<>(li), sum);
-        li.add(can[ind]);
-        helper(ind, li, sum + can[ind]);
+        if(ind == len) return;
+        if(can[ind] <= target){
+            li.add(can[ind]);
+            helper(ind, li, target-can[ind]);
+            li.remove(li.size() - 1);
+        }
+        helper(ind+1, li, target);
     }
 }
