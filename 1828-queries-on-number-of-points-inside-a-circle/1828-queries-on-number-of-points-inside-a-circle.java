@@ -6,8 +6,8 @@ class Solution {
         for(int[] query : queries){
             int count = 0;
             for(int[] point : points){
-                int lhs = (int)Math.pow(point[0] - query[0], 2) + (int)Math.pow(point[1] - query[1], 2);
-                int rhs = (int)Math.pow(query[2], 2);
+                int lhs = (point[0] - query[0])*(point[0] - query[0]) + (point[1] - query[1])*(point[1] - query[1]);
+                int rhs = query[2]*query[2];
                 if(lhs <= rhs) count++;
             }
             ans[i++] = count;
