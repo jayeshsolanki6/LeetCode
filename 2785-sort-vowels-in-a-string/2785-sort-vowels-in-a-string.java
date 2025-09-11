@@ -1,12 +1,13 @@
 class Solution {
     public String sortVowels(String s) {
+        String vowel = "AEIOUaeiou";
         PriorityQueue<Character> pq = new PriorityQueue<>();
         for(char c : s.toCharArray()){
-            if(isVowel(c)) pq.add(c);
+            if(vowel.contains(c+"")) pq.add(c);
         }
         StringBuilder sb = new StringBuilder(s);
         for(int i = 0; i<s.length(); i++){
-            if(isVowel(s.charAt(i))){
+            if(vowel.contains(s.charAt(i)+"")){
                 sb.setCharAt(i, pq.remove());
             }
         }
