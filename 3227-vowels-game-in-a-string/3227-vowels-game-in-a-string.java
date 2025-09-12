@@ -3,10 +3,9 @@ class Solution {
         int len = s.length();
         int vC = 0;
         for(char c : s.toCharArray()){
-            if(isVowel(c)) vC++;
+            if(isVowel(c)) return true;
         }
-        if(vC == 0) return false;
-        return true;
+        return false;
 
     }
     boolean isVowel(char c){
