@@ -1,7 +1,7 @@
 class Solution {
     public int maxFreqSum(String s) {
         int[]vowel = new int[26]; 
-        int[]cons = new int[26];
+        // int[]cons = new int[26];
         int vMax = 0;
         int cMax = 0;
         for(char c : s.toCharArray()){
@@ -11,8 +11,8 @@ class Solution {
                 vMax = Math.max(vMax, vowel[ind]);
             } else{
                 int ind = c - 'a';
-                cons[ind]++;
-                cMax = Math.max(cMax, cons[ind]);
+                vowel[ind]++;
+                cMax = Math.max(cMax, vowel[ind]);
             }
         } 
         return vMax + cMax;
