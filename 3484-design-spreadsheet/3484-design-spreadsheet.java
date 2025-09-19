@@ -2,16 +2,13 @@ class Spreadsheet {
     Map<String, Integer> map = new HashMap<>();
 
     public Spreadsheet(int rows) {
-        
-        char one = '1';
-        for(int i = 0; i<rows; i++){
+        for(int i = 1; i<=rows; i++){
             char a = 'A';
             for(int j = 0; j<26; j++){
-                String s = "" + a + one;
+                String s = "" + a + i;
                 map.put(s, 0);
                 a++;
             }
-            one++;
         }
     }
     
