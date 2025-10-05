@@ -1,23 +1,20 @@
 class Solution {
     public int numSubarraysWithSum(int[] nums, int goal) {
+        return SWAM(nums, goal) - SWAM(nums, goal-1);
+    }
+    // sliding window at most
+    int SWAM(int[] nums, int goal){
+        if(goal < 0) return 0;
         int len = nums.length;
-        int win = 0;
-        int count = 0;
-        while(win < len){
-            int i = 0, j = win;
-            int sum = 0;
-            for(int k = i; k<=j; k++){
-                sum += nums[k];
-            } 
-            if(sum == goal) count++;
-            i++; j++;
-            while(j < len){
-                sum = sum - nums[i-1] + nums[j];
-                if(sum == goal) count++;
-                i++;
-                j++;
+        int sum = 0, count = 0;
+        int left = 0;
+        for(int right = 0; right < len; right++){
+            sum += nums[right];
+            while(sum > goal){
+                sum-=nums[left];
+                left++;
             }
-            win++;
+            count += right - left + 1;
         }
         return count;
     }
