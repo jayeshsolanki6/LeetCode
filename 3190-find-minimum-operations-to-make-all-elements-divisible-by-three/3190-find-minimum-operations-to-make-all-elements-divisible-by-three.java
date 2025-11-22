@@ -1,11 +1,10 @@
 class Solution {
     public int minimumOperations(int[] nums) {
-        int res = 0;
-        for(int n : nums){
-            if(n%3 != 0){
-                res++;
-            }
+        int count = 0;
+        for(int i : nums){
+            if(i % 3 == 0) continue;
+            count += Math.min(i % 3, 3 - (i % 3));
         }
-        return res;
+        return count;
     }
 }
