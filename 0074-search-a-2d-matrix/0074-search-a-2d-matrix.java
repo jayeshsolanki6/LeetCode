@@ -7,7 +7,7 @@ class Solution {
 
         int low = 0, high = m-1;
         int row = 0;
-        while(low < high){
+        while(low <= high){
             int mid = (low + high)/2;
             int curr = matrix[mid][0];
             if(curr == target) return true;
