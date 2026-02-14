@@ -1,21 +1,33 @@
 class Solution {
+    int[][] memo;
+    int row, col;
     public int minPathSum(int[][] grid) {
-        int m = grid.length;
-        int n = grid[0].length;
-        int[][] dp = new int[m][n];
-        for(int i = 0; i<m; i++){
-            for(int j = 0; j<n; j++){
-                if(i == 0 && j == 0){
-                    dp[i][j] = grid[i][j];
-                } else if(i == 0){
-                    dp[i][j] = dp[i][j-1] + grid[i][j];
-                } else if(j == 0){
-                    dp[i][j] = dp[i-1][j] + grid[i][j];
-                } else {
-                    dp[i][j] = grid[i][j] + Math.min(dp[i][j-1], dp[i-1][j]);
-                }
-            }
+        row = grid.length;
+        col = grid[0].length;
+        memo = new int[row][col];
+        for(int[] i : memo){
+            Arrays.fill(i, -1);
         }
-        return dp[m-1][n-1];
+        return cal(grid, 0, 0);
+    }
+    int cal(int[][] grid, int m, int n){
+        if(m == row-1){
+            int sum = 0;
+            for(int i = n; i<col; i++){
+                sum += grid[m][i];
+            }
+            return sum;
+        }
+        if(n == col-1){
+            int sum = 0;
+            for(int i = m; i<row; i++){
+                sum += grid[i][n];
+            }
+            return sum;
+        }
+        if(memo[m][n] != -1) return memo[m][n];
+        int ans = grid[m][n] + Math.min(cal(grid, m+1, n), cal(grid, m, n+1));
+        memo[m][n] = ans;
+        return ans;
     }
 }
