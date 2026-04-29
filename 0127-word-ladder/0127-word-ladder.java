@@ -1,8 +1,8 @@
 class Solution {
     public int ladderLength(String beginWord, String endWord, List<String> wordList) {
         Set<String> set = new HashSet<>(wordList);
-        Queue<StringBuilder> q = new ArrayDeque<>();
-        q.add(new StringBuilder(beginWord));
+        Queue<String> q = new ArrayDeque<>();
+        q.add(beginWord);
         if(set.contains(beginWord)) set.remove(beginWord);
         int len = beginWord.length();
         int res = 0;
@@ -11,16 +11,17 @@ class Solution {
             int size = q.size();
             res++;
             for(int i = 0; i<size; i++){
-                StringBuilder sb = q.remove();
-                if(sb.toString().equals(endWord)) return res;
+                String sb = q.remove();
+                if(sb.equals(endWord)) return res;
                 for(int j = 0; j<len; j++){
-                    for(int k = 0; k<26; k++){
-                        char c = (char)('a' + k);
-                        StringBuilder newStr = new StringBuilder(sb);
-                        newStr.setCharAt(j, c);
-                        if(set.contains(newStr.toString())){
+                    char[] arr = sb.toCharArray();
+                    char pre = arr[j];
+                    for(char c = 'a'; c<='z'; c++){
+                        arr[j] = c;
+                        String newStr = new String(arr);
+                        if(set.contains(newStr)){
                             q.add(newStr);
-                            set.remove(newStr.toString());
+                            set.remove(newStr);
                         }
                     }
                 }
