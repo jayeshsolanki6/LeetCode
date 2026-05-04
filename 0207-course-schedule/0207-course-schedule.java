@@ -3,32 +3,32 @@ class Solution {
         ArrayList<ArrayList<Integer>> list = new ArrayList<>();
         for(int i = 0; i<numCourses; i++) list.add(new ArrayList<Integer>());
 
+        int[] inDeg = new int[numCourses];
         for(int[] pre : prerequisites){
             list.get(pre[1]).add(pre[0]);
+            inDeg[pre[0]]++;
         }
 
-        boolean[] vis = new boolean[numCourses];
-        boolean[] path = new boolean[numCourses];
-
+        Queue<Integer> q = new ArrayDeque<>();
         for(int i = 0; i<numCourses; i++){
-            if(!vis[i]){
-                if(dfs(list, i, vis, path)) return false;
+            if(inDeg[i] == 0){
+                q.add(i);
             }
         }
+
+        List<Integer> topo = new ArrayList<>();
+        while(!q.isEmpty()){
+            int node = q.remove();
+            topo.add(node);
+            for(int x : list.get(node)){
+                inDeg[x]--;
+                if(inDeg[x] == 0){
+                    q.add(x);
+                }
+            }
+        }
+        if(topo.size() != numCourses) return false;
         return true;
-    }
-    boolean dfs(ArrayList<ArrayList<Integer>> list, int v, boolean[] vis, boolean[] path){
-        vis[v] = true;
-        path[v] = true;
-        ArrayList<Integer> nab = list.get(v);
-        for(int n : nab){
-            if(!vis[n]){
-                if(dfs(list, n, vis, path)) return true;
-            } else if(path[n]){
-                return true;
-            }
-        }
-        path[v] = false;
-        return false;
+
     }
 }
