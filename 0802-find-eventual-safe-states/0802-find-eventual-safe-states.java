@@ -1,32 +1,35 @@
 class Solution {
     public List<Integer> eventualSafeNodes(int[][] graph) {
         int nodes = graph.length;
-        int[] vis = new int[nodes];
- 
-        List<Integer> res = new ArrayList<>();
+        List<List<Integer>> rev = new ArrayList<>();
 
         for(int i = 0; i<nodes; i++){
-            if(vis[i] == 0){
-                if(!dfs(i, graph, vis)){
-                    res.add(i);
-                }
-            } else if(vis[i] == 1){
-                res.add(i);
-            }
+            rev.add(new ArrayList<>());
         }
 
-        return res;
-    }
-    boolean dfs(int n, int[][] graph, int[] vis){
-        vis[n] = 2;
-        for(int adj : graph[n]){
-            if(vis[adj] == 0 && dfs(adj, graph, vis)){
-                return true;
-            }else if(vis[adj] == 2){
-                return true;
+        int[] inDeg = new int[nodes];
+        for(int i = 0; i<nodes; i++){
+            for(int node : graph[i]){
+                rev.get(node).add(i);
+                inDeg[i]++;
             }
         }
-        vis[n] = 1;
-        return false;
+        
+        Queue<Integer> q = new ArrayDeque<>();
+        for(int i = 0; i<nodes; i++){
+            if(inDeg[i] == 0) q.add(i);
+        }
+
+        List<Integer> res = new ArrayList<>();
+        while(!q.isEmpty()){
+            int node = q.remove();
+            res.add(node);
+            for(int x : rev.get(node)){
+                inDeg[x]--;
+                if(inDeg[x] == 0) q.add(x);
+            }
+        }
+        Collections.sort(res);
+        return res;
     }
 }
