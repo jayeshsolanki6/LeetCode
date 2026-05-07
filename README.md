@@ -11,6 +11,7 @@
 | [0733-flood-fill](https://github.com/jayeshsolanki6/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/jayeshsolanki6/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/jayeshsolanki6/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1861-rotating-the-box](https://github.com/jayeshsolanki6/LeetCode/tree/master/1861-rotating-the-box) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 | [0733-flood-fill](https://github.com/jayeshsolanki6/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/jayeshsolanki6/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/jayeshsolanki6/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1861-rotating-the-box](https://github.com/jayeshsolanki6/LeetCode/tree/master/1861-rotating-the-box) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -96,4 +98,8 @@
 | ------- |
 | [0396-rotate-function](https://github.com/jayeshsolanki6/LeetCode/tree/master/0396-rotate-function) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/jayeshsolanki6/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Two Pointers
+|  |
+| ------- |
+| [1861-rotating-the-box](https://github.com/jayeshsolanki6/LeetCode/tree/master/1861-rotating-the-box) |
 <!---LeetCode Topics End-->
