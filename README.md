@@ -6,6 +6,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/jayeshsolanki6/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/jayeshsolanki6/LeetCode/tree/master/0200-number-of-islands) |
+| [0396-rotate-function](https://github.com/jayeshsolanki6/LeetCode/tree/master/0396-rotate-function) |
 | [0542-01-matrix](https://github.com/jayeshsolanki6/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/jayeshsolanki6/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/jayeshsolanki6/LeetCode/tree/master/0994-rotting-oranges) |
@@ -61,6 +62,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0396-rotate-function](https://github.com/jayeshsolanki6/LeetCode/tree/master/0396-rotate-function) |
 | [0542-01-matrix](https://github.com/jayeshsolanki6/LeetCode/tree/master/0542-01-matrix) |
 ## Union-Find
 |  |
@@ -92,5 +94,6 @@
 ## Math
 |  |
 | ------- |
+| [0396-rotate-function](https://github.com/jayeshsolanki6/LeetCode/tree/master/0396-rotate-function) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/jayeshsolanki6/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
