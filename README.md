@@ -11,6 +11,7 @@
 | [0733-flood-fill](https://github.com/jayeshsolanki6/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/jayeshsolanki6/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/jayeshsolanki6/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/jayeshsolanki6/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1861-rotating-the-box](https://github.com/jayeshsolanki6/LeetCode/tree/master/1861-rotating-the-box) |
 ## Breadth-First Search
 |  |
@@ -27,6 +28,7 @@
 | [0802-find-eventual-safe-states](https://github.com/jayeshsolanki6/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/jayeshsolanki6/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/jayeshsolanki6/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/jayeshsolanki6/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Matrix
 |  |
 | ------- |
@@ -36,6 +38,7 @@
 | [0733-flood-fill](https://github.com/jayeshsolanki6/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/jayeshsolanki6/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/jayeshsolanki6/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/jayeshsolanki6/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1861-rotating-the-box](https://github.com/jayeshsolanki6/LeetCode/tree/master/1861-rotating-the-box) |
 ## Depth-First Search
 |  |
