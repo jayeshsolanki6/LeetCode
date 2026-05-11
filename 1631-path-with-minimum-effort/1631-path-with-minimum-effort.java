@@ -24,6 +24,11 @@ class Solution {
             Pair p = pq.remove();
             int i = p.row, j = p.col;
             int e = p.effort;
+
+            if(i == row-1 && j == col-1){
+                return e;
+            }
+
             int wt = h[i][j];
 
             for(int[] d : dir){
@@ -31,6 +36,7 @@ class Solution {
                 int nj = j + d[1];
                 if(ni < 0 || ni >= row || nj < 0 || nj >= col) continue;
                 int neff = Math.max(Math.abs(h[ni][nj] - wt), e);
+
                 if(effort[ni][nj] > neff){
                     effort[ni][nj] = neff;
                     pq.add(new Pair(ni, nj, neff));
