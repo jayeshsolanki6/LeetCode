@@ -12,6 +12,7 @@
 | [0994-rotting-oranges](https://github.com/jayeshsolanki6/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/jayeshsolanki6/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/jayeshsolanki6/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/jayeshsolanki6/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1861-rotating-the-box](https://github.com/jayeshsolanki6/LeetCode/tree/master/1861-rotating-the-box) |
 ## Breadth-First Search
 |  |
@@ -29,6 +30,7 @@
 | [0994-rotting-oranges](https://github.com/jayeshsolanki6/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/jayeshsolanki6/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/jayeshsolanki6/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/jayeshsolanki6/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
 |  |
 | ------- |
@@ -39,6 +41,7 @@
 | [0994-rotting-oranges](https://github.com/jayeshsolanki6/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/jayeshsolanki6/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/jayeshsolanki6/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/jayeshsolanki6/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1861-rotating-the-box](https://github.com/jayeshsolanki6/LeetCode/tree/master/1861-rotating-the-box) |
 ## Depth-First Search
 |  |
@@ -51,6 +54,7 @@
 | [0785-is-graph-bipartite](https://github.com/jayeshsolanki6/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/jayeshsolanki6/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/jayeshsolanki6/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/jayeshsolanki6/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
@@ -76,6 +80,7 @@
 | [0200-number-of-islands](https://github.com/jayeshsolanki6/LeetCode/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/jayeshsolanki6/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/jayeshsolanki6/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/jayeshsolanki6/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Hash Table
 |  |
 | ------- |
@@ -105,4 +110,12 @@
 |  |
 | ------- |
 | [1861-rotating-the-box](https://github.com/jayeshsolanki6/LeetCode/tree/master/1861-rotating-the-box) |
+## Binary Search
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/jayeshsolanki6/LeetCode/tree/master/1631-path-with-minimum-effort) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/jayeshsolanki6/LeetCode/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
