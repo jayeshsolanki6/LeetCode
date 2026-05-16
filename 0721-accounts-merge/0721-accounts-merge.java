@@ -20,34 +20,26 @@ class Solution {
             }
         }
 
-        Set<Integer> set = new HashSet<>();
-
-        for(int i : map.values()){
-            set.add(findUPar(i));
-        }
-
-        Map<Integer, TreeSet<String>> treeMap = new HashMap<>();
-
-        for(int i : set){
-            // System.out.println(i);
-            treeMap.put(i, new TreeSet<>());
-        }
+        List<List<String>> mergedMail = new ArrayList<>();
 
         for(int i = 0; i<len; i++){
-            List<String> list = accounts.get(i);
-            int size = list.size();
-            TreeSet<String> tree = treeMap.get(findUPar(i));
-            for(int j = 1; j<size; j++){
-                tree.add(list.get(j));
-            }
+            mergedMail.add(new ArrayList<>());
+        }
+
+        for(String s : map.keySet()){
+            int node = findUPar(map.get(s));
+            mergedMail.get(node).add(s);
         }
 
         List<List<String>> result = new ArrayList<>();
         
-        for(int i : treeMap.keySet()){
+        for(int i = 0; i<len; i++){
+            List<String> mails = mergedMail.get(i);
+            Collections.sort(mails);
+            if(mails.size() == 0) continue;
             List<String> list = new ArrayList<>();
             list.add(accounts.get(i).get(0));
-            for(String str : treeMap.get(i)){
+            for(String str : mails){
                 list.add(str);
             }
             result.add(list);
