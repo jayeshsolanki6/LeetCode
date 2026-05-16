@@ -19,12 +19,12 @@ class Solution {
             set.add(j);
         }
 
-        Set<Integer> com = new HashSet<>();
+        int com = 0;
 
         for(int node : set){
-            com.add(ds.findUPar(node));
+            if(ds.findUPar(node) == node) com++;
         }
-        return len - com.size();
+        return len - com;
     }
 
 }
