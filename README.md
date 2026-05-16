@@ -8,6 +8,7 @@
 | [0200-number-of-islands](https://github.com/jayeshsolanki6/LeetCode/tree/master/0200-number-of-islands) |
 | [0396-rotate-function](https://github.com/jayeshsolanki6/LeetCode/tree/master/0396-rotate-function) |
 | [0542-01-matrix](https://github.com/jayeshsolanki6/LeetCode/tree/master/0542-01-matrix) |
+| [0721-accounts-merge](https://github.com/jayeshsolanki6/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/jayeshsolanki6/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/jayeshsolanki6/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/jayeshsolanki6/LeetCode/tree/master/1020-number-of-enclaves) |
@@ -24,6 +25,7 @@
 | [0207-course-schedule](https://github.com/jayeshsolanki6/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/jayeshsolanki6/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/jayeshsolanki6/LeetCode/tree/master/0542-01-matrix) |
+| [0721-accounts-merge](https://github.com/jayeshsolanki6/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/jayeshsolanki6/LeetCode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/jayeshsolanki6/LeetCode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/jayeshsolanki6/LeetCode/tree/master/0785-is-graph-bipartite) |
@@ -53,6 +55,7 @@
 | [0200-number-of-islands](https://github.com/jayeshsolanki6/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/jayeshsolanki6/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/jayeshsolanki6/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0721-accounts-merge](https://github.com/jayeshsolanki6/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/jayeshsolanki6/LeetCode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/jayeshsolanki6/LeetCode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/jayeshsolanki6/LeetCode/tree/master/0785-is-graph-bipartite) |
@@ -95,6 +98,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/jayeshsolanki6/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/jayeshsolanki6/LeetCode/tree/master/0200-number-of-islands) |
+| [0721-accounts-merge](https://github.com/jayeshsolanki6/LeetCode/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/jayeshsolanki6/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/jayeshsolanki6/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/jayeshsolanki6/LeetCode/tree/master/1020-number-of-enclaves) |
@@ -105,12 +109,14 @@
 | ------- |
 | [0126-word-ladder-ii](https://github.com/jayeshsolanki6/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/jayeshsolanki6/LeetCode/tree/master/0127-word-ladder) |
+| [0721-accounts-merge](https://github.com/jayeshsolanki6/LeetCode/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/jayeshsolanki6/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## String
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/jayeshsolanki6/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/jayeshsolanki6/LeetCode/tree/master/0127-word-ladder) |
+| [0721-accounts-merge](https://github.com/jayeshsolanki6/LeetCode/tree/master/0721-accounts-merge) |
 | [0796-rotate-string](https://github.com/jayeshsolanki6/LeetCode/tree/master/0796-rotate-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/jayeshsolanki6/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Backtracking
@@ -147,4 +153,8 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/jayeshsolanki6/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/jayeshsolanki6/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/jayeshsolanki6/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Sorting
+|  |
+| ------- |
+| [0721-accounts-merge](https://github.com/jayeshsolanki6/LeetCode/tree/master/0721-accounts-merge) |
 <!---LeetCode Topics End-->
