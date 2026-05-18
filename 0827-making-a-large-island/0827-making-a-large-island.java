@@ -1,52 +1,41 @@
 class Solution {
-    int[] parent, size;
+    int n;
+    int[][] grid;
+    int[][] dir = {{1,0},{-1,0},{0,1},{0,-1}};
+
     public int largestIsland(int[][] grid) {
-        int n = grid.length;
+        this.grid = grid;
+        this.n = grid.length;
 
-        boolean[][] vis = new boolean[n][n];
+        Map<Integer, Integer> islandSize = new HashMap<>();
+        int id = 2; // start from 2 since 0 and 1 already used in grid
 
-        int len = n*n;
-        parent = new int[len];
-        for(int i = 0; i<len; i++) parent[i] = i;
-        size = new int[len];
-        Arrays.fill(size, 1);
-
-        int[][] dir = new int[][]{{1, 0}, {-1, 0}, {0, 1}, {0, -1}};
-
-        for(int i = 0; i<n; i++){
-            for(int j = 0; j<n; j++){
-                if(grid[i][j] == 1){
-                    vis[i][j] = true;
-                    int ind = n*i + j;
-                    for(int[] d : dir){
-                        int x = i + d[0];
-                        int y = j + d[1];
-                        if(x < 0 || y < 0 || x >= n || y >= n) continue;
-                        if(!vis[x][y]) continue;
-                        int nind = x*n + y;
-                        union(ind, nind);
-                    }
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                if (grid[i][j] == 1) {
+                    int size = dfs(i, j, id);
+                    islandSize.put(id, size);
+                    id++;
                 }
             }
         }
-        int max = size[findUPar(0)];
-        for(int i = 0; i<n; i++){
-            for(int j = 0; j<n; j++){
-                if(grid[i][j] == 0){
+
+        // handle all-1s grid
+        int max = (grid[0][0] != 0) ? islandSize.get(grid[0][0]) : 0;
+
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                if (grid[i][j] == 0) {
                     int land = 1;
-                    Set<Integer> set = new HashSet<>();
-                    for(int[] d : dir){
-                        int x = i + d[0];
-                        int y = j + d[1];
-                        if(x < 0 || y < 0 || x >= n || y >= n) continue;
-                        if(!vis[x][y]) continue;
-                        int nind = x*n + y;
-                        int par = findUPar(nind);
-                        if(set.contains(par)) continue;
-                        set.add(par);
-                        land += size[par];
+                    Set<Integer> seen = new HashSet<>();
+                    for (int[] d : dir) {
+                        int x = i + d[0], y = j + d[1];
+                        if (x < 0 || y < 0 || x >= n || y >= n) continue;
+                        int neighborId = grid[x][y];
+                        if (neighborId == 0 || seen.contains(neighborId)) continue;
+                        seen.add(neighborId);
+                        land += islandSize.get(neighborId);
                     }
-                    System.out.println(land);
                     max = Math.max(max, land);
                 }
             }
@@ -54,26 +43,15 @@ class Solution {
         return max;
 
     }
-    int findUPar(int n){
-        if(parent[n] == n) return n;
-        return parent[n] = findUPar(parent[n]);
-    }
 
-    void union(int x, int y){
-        int parx = findUPar(x);
-        int pary = findUPar(y);
-
-        if(parx == pary) return;
-
-        int sizex = size[parx];
-        int sizey = size[pary];
-
-        if(sizex > sizey){
-            parent[pary] = parx;
-            size[parx] += sizey;
-        } else{
-            parent[parx] = pary;
-            size[pary] += sizex;
+    int dfs(int i, int j, int id) {
+        if (i < 0 || j < 0 || i >= n || j >= n) return 0;
+        if (grid[i][j] != 1) return 0;
+        grid[i][j] = id; // mark with island id (avoids vis[][] array)
+        int size = 1;
+        for (int[] d : dir) {
+            size += dfs(i + d[0], j + d[1], id);
         }
+        return size;
     }
 }
