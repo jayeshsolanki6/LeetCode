@@ -17,6 +17,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/jayeshsolanki6/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/jayeshsolanki6/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1861-rotating-the-box](https://github.com/jayeshsolanki6/LeetCode/tree/master/1861-rotating-the-box) |
+| [2540-minimum-common-value](https://github.com/jayeshsolanki6/LeetCode/tree/master/2540-minimum-common-value) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -123,6 +124,7 @@
 | [0127-word-ladder](https://github.com/jayeshsolanki6/LeetCode/tree/master/0127-word-ladder) |
 | [0721-accounts-merge](https://github.com/jayeshsolanki6/LeetCode/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/jayeshsolanki6/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [2540-minimum-common-value](https://github.com/jayeshsolanki6/LeetCode/tree/master/2540-minimum-common-value) |
 ## String
 |  |
 | ------- |
@@ -150,11 +152,13 @@
 |  |
 | ------- |
 | [1861-rotating-the-box](https://github.com/jayeshsolanki6/LeetCode/tree/master/1861-rotating-the-box) |
+| [2540-minimum-common-value](https://github.com/jayeshsolanki6/LeetCode/tree/master/2540-minimum-common-value) |
 ## Binary Search
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/jayeshsolanki6/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/jayeshsolanki6/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [2540-minimum-common-value](https://github.com/jayeshsolanki6/LeetCode/tree/master/2540-minimum-common-value) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
