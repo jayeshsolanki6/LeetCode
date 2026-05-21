@@ -18,6 +18,7 @@
 | [1631-path-with-minimum-effort](https://github.com/jayeshsolanki6/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1861-rotating-the-box](https://github.com/jayeshsolanki6/LeetCode/tree/master/1861-rotating-the-box) |
 | [2540-minimum-common-value](https://github.com/jayeshsolanki6/LeetCode/tree/master/2540-minimum-common-value) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/jayeshsolanki6/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -125,6 +126,7 @@
 | [0721-accounts-merge](https://github.com/jayeshsolanki6/LeetCode/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/jayeshsolanki6/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [2540-minimum-common-value](https://github.com/jayeshsolanki6/LeetCode/tree/master/2540-minimum-common-value) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/jayeshsolanki6/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## String
 |  |
 | ------- |
@@ -133,6 +135,7 @@
 | [0721-accounts-merge](https://github.com/jayeshsolanki6/LeetCode/tree/master/0721-accounts-merge) |
 | [0796-rotate-string](https://github.com/jayeshsolanki6/LeetCode/tree/master/0796-rotate-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/jayeshsolanki6/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/jayeshsolanki6/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Backtracking
 |  |
 | ------- |
@@ -189,4 +192,8 @@
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/jayeshsolanki6/LeetCode/tree/master/1192-critical-connections-in-a-network) |
+## Trie
+|  |
+| ------- |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/jayeshsolanki6/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
