@@ -1,18 +1,20 @@
 class Solution {
-    List<List<Integer>> list = new ArrayList<>();
     public List<List<Integer>> subsets(int[] nums) {
+        List<List<Integer>> list = new ArrayList<>();
+
         int len = nums.length;
-        generate(nums, 0, len, new ArrayList<>());
+        int bit = 1 << len;
+        for(int i = 0; i<bit; i++){
+            List<Integer> newLi = new ArrayList<>();
+            for(int j = 0; j<len; j++){
+                if((i & (1 << j)) > 0){
+                    newLi.add(nums[j]);
+                }
+            }
+            list.add(newLi);
+        }
+
         return list;
     }
-    void generate(int[] nums, int ind, int len, List<Integer> li){
-        if(ind == len){
-            list.add(li);
-            return;
-        }
-        List<Integer> newLi = new ArrayList<>(li);
-        newLi.add(nums[ind]);
-        generate(nums, ind+1, len, li);
-        generate(nums, ind+1, len, newLi);
-    }
+
 }
