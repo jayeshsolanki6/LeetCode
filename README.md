@@ -138,6 +138,7 @@
 | [0721-accounts-merge](https://github.com/jayeshsolanki6/LeetCode/tree/master/0721-accounts-merge) |
 | [0796-rotate-string](https://github.com/jayeshsolanki6/LeetCode/tree/master/0796-rotate-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/jayeshsolanki6/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [2156-find-substring-with-given-hash-value](https://github.com/jayeshsolanki6/LeetCode/tree/master/2156-find-substring-with-given-hash-value) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/jayeshsolanki6/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Backtracking
 |  |
@@ -217,4 +218,16 @@
 | [0078-subsets](https://github.com/jayeshsolanki6/LeetCode/tree/master/0078-subsets) |
 | [0260-single-number-iii](https://github.com/jayeshsolanki6/LeetCode/tree/master/0260-single-number-iii) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/jayeshsolanki6/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
+## Sliding Window
+|  |
+| ------- |
+| [2156-find-substring-with-given-hash-value](https://github.com/jayeshsolanki6/LeetCode/tree/master/2156-find-substring-with-given-hash-value) |
+## Rolling Hash
+|  |
+| ------- |
+| [2156-find-substring-with-given-hash-value](https://github.com/jayeshsolanki6/LeetCode/tree/master/2156-find-substring-with-given-hash-value) |
+## Hash Function
+|  |
+| ------- |
+| [2156-find-substring-with-given-hash-value](https://github.com/jayeshsolanki6/LeetCode/tree/master/2156-find-substring-with-given-hash-value) |
 <!---LeetCode Topics End-->
