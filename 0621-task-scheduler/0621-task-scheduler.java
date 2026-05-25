@@ -1,28 +1,18 @@
 class Solution {
     public int leastInterval(char[] tasks, int n) {
-        int time = 0;
-        int[] hash = new int[26];
+        int maxFreq = 0;
+        
+        int[] freq = new int[26];
         for(char c : tasks){
-            hash[c - 'A']++;
-        }
-        PriorityQueue<Integer> pq = new PriorityQueue<>(Collections.reverseOrder());
-        for(int i : hash){
-            if(i != 0) pq.add(i);
+            maxFreq = Math.max(maxFreq, ++freq[c - 'A']);
         }
 
-        Queue<int[]> q = new ArrayDeque<>();
-
-        while(!pq.isEmpty() || !q.isEmpty()){
-            time++;
-            while(!q.isEmpty() && q.peek()[1] == time){
-                pq.add(q.remove()[0]);
-            }
-            if(!pq.isEmpty()){
-                int abc = pq.remove();
-                if(abc > 1)
-                    q.add(new int[]{abc - 1, time + n + 1});
-            }
+        int maxCount = 0;
+        for(int f : freq){
+            if(f == maxFreq) maxCount++;
         }
-        return time;
+
+        return Math.max(tasks.length, (maxFreq-1)*(n+1) + maxCount);
+        
     }
 }
