@@ -1,32 +1,32 @@
 class Solution {
-    public boolean isNStraightHand(int[] hand, int k) {
-        if(hand.length % k != 0) return false;
+    public boolean isNStraightHand(int[] nums, int k) {
+        Arrays.sort(nums);
+        int len = nums.length;
+        if(nums.length % k != 0) return false;
 
-        HashMap<Integer, Integer> map = new HashMap<>();
-        TreeSet<Integer> set = new TreeSet<>();
-
-        for(int i : hand){
-            map.put(i, map.getOrDefault(i, 0)+1);
-            set.add(i);
-        }
-
-        while(!set.isEmpty()){
-            int min = set.pollFirst();
-            int size = map.get(min);
-            for(int i = 0; i<k; i++){
-                int el = min+i;
-                if(!map.containsKey(el)) return false;
-                int elsize = map.get(el);
-                if(size > elsize){
-                    return false;
-                } else if(size == elsize){
-                    map.remove(el);
-                    set.remove(el);
-                } else{
-                    map.put(el, elsize-size);
-                }
+        for(int i = 0; i<len; i++){
+            if(nums[i] != -1){
+                if(!findSuccessor(i, nums, k, len)) return false;
             }
         }
+
         return true;
+    }
+
+    boolean findSuccessor(int ind, int[] nums, int k, int len){
+        int nextFind = nums[ind]+1;
+        nums[ind++] = -1;
+        int count = 1;
+
+        while(ind < len && count < k){
+            if(nums[ind] == nextFind){
+                nums[ind] = -1;
+                nextFind++;
+                count++;
+            }
+            ind++;
+        }
+        if(count == k) return true;
+        return false;
     }
 }
