@@ -8,23 +8,9 @@ class MedianFinder {
     }
     
     public void addNum(int num) {
-        if(max.isEmpty()) {
+        if(max.isEmpty() || num <= max.peek()) {
             max.add(num);
-            return;
-        }
-        if(min.isEmpty()) {
-            if(max.peek() <= num){
-                min.add(num);
-            } else{
-                int left = max.remove();
-                min.add(left);
-                max.add(num);
-            }
-            return;
-        }
-        if(num <= max.peek()){
-            max.add(num);
-        } else{
+        }else{
             min.add(num);
         }
         int s1 = max.size();
