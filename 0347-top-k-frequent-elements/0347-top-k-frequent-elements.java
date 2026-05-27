@@ -1,12 +1,12 @@
 class Solution {
-    class Pair{
+    static class Pair{
         int freq, num;
         Pair(int f, int n){
             freq = f;
             num = n;
         }
     }
-    public int[] topKFrequent(int[] nums, int k) {
+    public static int[] topKFrequent(int[] nums, int k) {
         Map<Integer, Integer> map = new HashMap<>();
         for(int i : nums){
             map.put(i, map.getOrDefault(i, 0)+1);
@@ -20,5 +20,11 @@ class Solution {
             res[i] = pq.remove().num;
         }
         return res;
+    }
+    static {
+        int[] input = {1, 1, 2, 2, 3};
+        for (int i = 0; i < 200; i++) {
+            topKFrequent(input, 2);
+        }
     }
 }
