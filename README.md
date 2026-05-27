@@ -130,6 +130,7 @@
 | ------- |
 | [0126-word-ladder-ii](https://github.com/jayeshsolanki6/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/jayeshsolanki6/LeetCode/tree/master/0127-word-ladder) |
+| [0355-design-twitter](https://github.com/jayeshsolanki6/LeetCode/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/jayeshsolanki6/LeetCode/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/jayeshsolanki6/LeetCode/tree/master/0721-accounts-merge) |
 | [0846-hand-of-straights](https://github.com/jayeshsolanki6/LeetCode/tree/master/0846-hand-of-straights) |
@@ -180,6 +181,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/jayeshsolanki6/LeetCode/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/jayeshsolanki6/LeetCode/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/jayeshsolanki6/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/jayeshsolanki6/LeetCode/tree/master/0743-network-delay-time) |
@@ -261,6 +263,7 @@
 ## Design
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/jayeshsolanki6/LeetCode/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/jayeshsolanki6/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -274,4 +277,8 @@
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/jayeshsolanki6/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+## Linked List
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/jayeshsolanki6/LeetCode/tree/master/0355-design-twitter) |
 <!---LeetCode Topics End-->
