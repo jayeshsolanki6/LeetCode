@@ -110,6 +110,7 @@
 | ------- |
 | [0396-rotate-function](https://github.com/jayeshsolanki6/LeetCode/tree/master/0396-rotate-function) |
 | [0542-01-matrix](https://github.com/jayeshsolanki6/LeetCode/tree/master/0542-01-matrix) |
+| [0678-valid-parenthesis-string](https://github.com/jayeshsolanki6/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jayeshsolanki6/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/jayeshsolanki6/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/jayeshsolanki6/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -146,6 +147,7 @@
 | ------- |
 | [0126-word-ladder-ii](https://github.com/jayeshsolanki6/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/jayeshsolanki6/LeetCode/tree/master/0127-word-ladder) |
+| [0678-valid-parenthesis-string](https://github.com/jayeshsolanki6/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/jayeshsolanki6/LeetCode/tree/master/0721-accounts-merge) |
 | [0796-rotate-string](https://github.com/jayeshsolanki6/LeetCode/tree/master/0796-rotate-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/jayeshsolanki6/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -260,6 +262,7 @@
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/jayeshsolanki6/LeetCode/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/jayeshsolanki6/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0846-hand-of-straights](https://github.com/jayeshsolanki6/LeetCode/tree/master/0846-hand-of-straights) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/jayeshsolanki6/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 ## Counting
@@ -302,4 +305,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/jayeshsolanki6/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/jayeshsolanki6/LeetCode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
