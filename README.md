@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/jayeshsolanki6/LeetCode/tree/master/0045-jump-game-ii) |
 | [0078-subsets](https://github.com/jayeshsolanki6/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/jayeshsolanki6/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0130-surrounded-regions](https://github.com/jayeshsolanki6/LeetCode/tree/master/0130-surrounded-regions) |
@@ -108,6 +109,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/jayeshsolanki6/LeetCode/tree/master/0045-jump-game-ii) |
 | [0396-rotate-function](https://github.com/jayeshsolanki6/LeetCode/tree/master/0396-rotate-function) |
 | [0542-01-matrix](https://github.com/jayeshsolanki6/LeetCode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/jayeshsolanki6/LeetCode/tree/master/0678-valid-parenthesis-string) |
@@ -261,6 +263,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/jayeshsolanki6/LeetCode/tree/master/0045-jump-game-ii) |
 | [0621-task-scheduler](https://github.com/jayeshsolanki6/LeetCode/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/jayeshsolanki6/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0846-hand-of-straights](https://github.com/jayeshsolanki6/LeetCode/tree/master/0846-hand-of-straights) |
