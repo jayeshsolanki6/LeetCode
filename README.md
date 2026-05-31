@@ -27,6 +27,7 @@
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/jayeshsolanki6/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1631-path-with-minimum-effort](https://github.com/jayeshsolanki6/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1861-rotating-the-box](https://github.com/jayeshsolanki6/LeetCode/tree/master/1861-rotating-the-box) |
+| [2126-destroying-asteroids](https://github.com/jayeshsolanki6/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2540-minimum-common-value](https://github.com/jayeshsolanki6/LeetCode/tree/master/2540-minimum-common-value) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/jayeshsolanki6/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Breadth-First Search
@@ -217,6 +218,7 @@
 | [0721-accounts-merge](https://github.com/jayeshsolanki6/LeetCode/tree/master/0721-accounts-merge) |
 | [0846-hand-of-straights](https://github.com/jayeshsolanki6/LeetCode/tree/master/0846-hand-of-straights) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/jayeshsolanki6/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [2126-destroying-asteroids](https://github.com/jayeshsolanki6/LeetCode/tree/master/2126-destroying-asteroids) |
 ## Recursion
 |  |
 | ------- |
@@ -270,6 +272,7 @@
 | [0678-valid-parenthesis-string](https://github.com/jayeshsolanki6/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0846-hand-of-straights](https://github.com/jayeshsolanki6/LeetCode/tree/master/0846-hand-of-straights) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/jayeshsolanki6/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [2126-destroying-asteroids](https://github.com/jayeshsolanki6/LeetCode/tree/master/2126-destroying-asteroids) |
 ## Counting
 |  |
 | ------- |
