@@ -11,11 +11,11 @@ class Solution {
             list.add(intervals[i]);
             i++;
         }
-        
+
         if(list.size() != 0 && list.get(list.size()-1)[1] >= newInterval[0]){
             int[] last = list.get(list.size()-1);
             last[1] = Math.max(last[1], newInterval[1]);
-            list.set(list.size()-1, last);
+            // list.set(list.size()-1, last);
         } else{
             list.add(newInterval);
         }
@@ -25,7 +25,7 @@ class Solution {
             if(list.get(list.size()-1)[1] >= next[0]){
                 int[] last = list.get(list.size()-1);
                 last[1] = Math.max(last[1], next[1]);
-                list.set(list.size()-1, last);
+                // list.set(list.size()-1, last);
             } else{
                 list.add(next);
             }
