@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/jayeshsolanki6/LeetCode/tree/master/0045-jump-game-ii) |
+| [0057-insert-interval](https://github.com/jayeshsolanki6/LeetCode/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/jayeshsolanki6/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/jayeshsolanki6/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0130-surrounded-regions](https://github.com/jayeshsolanki6/LeetCode/tree/master/0130-surrounded-regions) |
