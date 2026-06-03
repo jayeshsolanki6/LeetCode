@@ -156,6 +156,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/jayeshsolanki6/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/jayeshsolanki6/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/jayeshsolanki6/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/jayeshsolanki6/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2540-minimum-common-value](https://github.com/jayeshsolanki6/LeetCode/tree/master/2540-minimum-common-value) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/jayeshsolanki6/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/jayeshsolanki6/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -168,6 +169,7 @@
 | [0721-accounts-merge](https://github.com/jayeshsolanki6/LeetCode/tree/master/0721-accounts-merge) |
 | [0796-rotate-string](https://github.com/jayeshsolanki6/LeetCode/tree/master/0796-rotate-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/jayeshsolanki6/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/jayeshsolanki6/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2156-find-substring-with-given-hash-value](https://github.com/jayeshsolanki6/LeetCode/tree/master/2156-find-substring-with-given-hash-value) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/jayeshsolanki6/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/jayeshsolanki6/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -272,6 +274,7 @@
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/jayeshsolanki6/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/jayeshsolanki6/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/jayeshsolanki6/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2156-find-substring-with-given-hash-value](https://github.com/jayeshsolanki6/LeetCode/tree/master/2156-find-substring-with-given-hash-value) |
 ## Rolling Hash
 |  |
