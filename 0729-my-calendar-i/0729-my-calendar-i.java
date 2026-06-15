@@ -5,19 +5,13 @@ class MyCalendar {
     }
     
     public boolean book(int startTime, int endTime) {
-        map.put(startTime, map.getOrDefault(startTime, 0)+1);
-        map.put(endTime, map.getOrDefault(endTime, 0)-1);
+        Integer floor = map.floorKey(startTime);
+        if(floor != null && map.get(floor) > startTime) return false;
 
-        int totalBooking = 0;
-        for(int key : map.keySet()){
-            totalBooking += map.get(key);
-            if(totalBooking >= 2){
-                map.put(startTime, map.getOrDefault(startTime, 0)-1);
-                map.put(endTime, map.getOrDefault(endTime, 0)+1);
-                return false;
-            }
-        }
+        Integer ceil = map.ceilingKey(startTime);
+        if(ceil != null && ceil < endTime) return false;
 
+        map.put(startTime, endTime);
         return true;
     }
 }
