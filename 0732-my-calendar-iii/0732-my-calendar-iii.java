@@ -10,8 +10,8 @@ class MyCalendarThree {
 
         int totalBooking = 0;
         int maxBooking = 0;
-        for(int key : map.keySet()){
-            totalBooking += map.get(key);
+        for(int value : map.values()){
+            totalBooking += value;
             maxBooking = Math.max(maxBooking, totalBooking);
         }
 
