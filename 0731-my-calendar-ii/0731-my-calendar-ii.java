@@ -1,38 +1,32 @@
 class MyCalendarTwo {
-    List<int[]> booking;
-    List<int[]> overlapingBookings;
-
+    TreeMap<Integer, Integer> map;
     public MyCalendarTwo() {
-        booking = new ArrayList<>();
-        overlapingBookings = new ArrayList<>();
+        map = new TreeMap<>();
     }
     
     public boolean book(int startTime, int endTime) {
-        for(int[] overBook : overlapingBookings){
-            if(isOverlaping(overBook, startTime, endTime-1)){
+        map.put(startTime, map.getOrDefault(startTime, 0)+1);
+        map.put(endTime, map.getOrDefault(endTime, 0)-1);
+
+        int totalBooking = 0;
+        for(int key : map.keySet()){
+            totalBooking += map.get(key);
+            if(totalBooking > 2){
+                map.put(startTime, map.getOrDefault(startTime, 0)-1);
+                map.put(endTime, map.getOrDefault(endTime, 0)+1);
                 return false;
             }
         }
 
-        for(int[] book : booking){
-            if(isOverlaping(book, startTime, endTime-1)){
-                overlapingBookings.add(new int[]{
-                    Math.max(book[0], startTime),
-                    Math.min(book[1], endTime-1)
-                });
-            }
-        }
-
-        booking.add(new int[]{startTime, endTime-1});
         return true;
-
-    }
-
-    public boolean isOverlaping(int[] book, int s2, int e2){
-        int s1 = book[0], e1 = book[1];
-        return e2 >= s1 && e1 >= s2;
     }
 }
+
+/**
+ * Your MyCalendar object will be instantiated and called as such:
+ * MyCalendar obj = new MyCalendar();
+ * boolean param_1 = obj.book(startTime,endTime);
+ */
 
 /**
  * Your MyCalendarTwo object will be instantiated and called as such:
