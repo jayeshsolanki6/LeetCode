@@ -23,6 +23,7 @@
 | [0621-task-scheduler](https://github.com/jayeshsolanki6/LeetCode/tree/master/0621-task-scheduler) |
 | [0713-subarray-product-less-than-k](https://github.com/jayeshsolanki6/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0721-accounts-merge](https://github.com/jayeshsolanki6/LeetCode/tree/master/0721-accounts-merge) |
+| [0729-my-calendar-i](https://github.com/jayeshsolanki6/LeetCode/tree/master/0729-my-calendar-i) |
 | [0733-flood-fill](https://github.com/jayeshsolanki6/LeetCode/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/jayeshsolanki6/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/jayeshsolanki6/LeetCode/tree/master/0827-making-a-large-island) |
@@ -217,6 +218,7 @@
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/jayeshsolanki6/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0729-my-calendar-i](https://github.com/jayeshsolanki6/LeetCode/tree/master/0729-my-calendar-i) |
 | [0778-swim-in-rising-water](https://github.com/jayeshsolanki6/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/jayeshsolanki6/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2540-minimum-common-value](https://github.com/jayeshsolanki6/LeetCode/tree/master/2540-minimum-common-value) |
@@ -329,6 +331,7 @@
 | [0295-find-median-from-data-stream](https://github.com/jayeshsolanki6/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/jayeshsolanki6/LeetCode/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/jayeshsolanki6/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0729-my-calendar-i](https://github.com/jayeshsolanki6/LeetCode/tree/master/0729-my-calendar-i) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -370,4 +373,12 @@
 |  |
 | ------- |
 | [1947-maximum-compatibility-score-sum](https://github.com/jayeshsolanki6/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/jayeshsolanki6/LeetCode/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/jayeshsolanki6/LeetCode/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
