@@ -14,6 +14,7 @@
 | [0200-number-of-islands](https://github.com/jayeshsolanki6/LeetCode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/jayeshsolanki6/LeetCode/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/jayeshsolanki6/LeetCode/tree/master/0260-single-number-iii) |
+| [0307-range-sum-query-mutable](https://github.com/jayeshsolanki6/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/jayeshsolanki6/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0396-rotate-function](https://github.com/jayeshsolanki6/LeetCode/tree/master/0396-rotate-function) |
 | [0435-non-overlapping-intervals](https://github.com/jayeshsolanki6/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -275,6 +276,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/jayeshsolanki6/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/jayeshsolanki6/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0372-super-pow](https://github.com/jayeshsolanki6/LeetCode/tree/master/0372-super-pow) |
 ## Biconnected Component
@@ -342,6 +344,7 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/jayeshsolanki6/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0307-range-sum-query-mutable](https://github.com/jayeshsolanki6/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/jayeshsolanki6/LeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0355-design-twitter](https://github.com/jayeshsolanki6/LeetCode/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/jayeshsolanki6/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -396,6 +399,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/jayeshsolanki6/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0729-my-calendar-i](https://github.com/jayeshsolanki6/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/jayeshsolanki6/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/jayeshsolanki6/LeetCode/tree/master/0732-my-calendar-iii) |
@@ -411,4 +415,8 @@
 | ------- |
 | [1094-car-pooling](https://github.com/jayeshsolanki6/LeetCode/tree/master/1094-car-pooling) |
 | [2402-meeting-rooms-iii](https://github.com/jayeshsolanki6/LeetCode/tree/master/2402-meeting-rooms-iii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/jayeshsolanki6/LeetCode/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
