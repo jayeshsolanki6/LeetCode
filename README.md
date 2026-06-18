@@ -14,6 +14,7 @@
 | [0200-number-of-islands](https://github.com/jayeshsolanki6/LeetCode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/jayeshsolanki6/LeetCode/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/jayeshsolanki6/LeetCode/tree/master/0260-single-number-iii) |
+| [0303-range-sum-query-immutable](https://github.com/jayeshsolanki6/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/jayeshsolanki6/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/jayeshsolanki6/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0396-rotate-function](https://github.com/jayeshsolanki6/LeetCode/tree/master/0396-rotate-function) |
@@ -344,6 +345,7 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/jayeshsolanki6/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0303-range-sum-query-immutable](https://github.com/jayeshsolanki6/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/jayeshsolanki6/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/jayeshsolanki6/LeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0355-design-twitter](https://github.com/jayeshsolanki6/LeetCode/tree/master/0355-design-twitter) |
@@ -385,6 +387,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/jayeshsolanki6/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/jayeshsolanki6/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/jayeshsolanki6/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/jayeshsolanki6/LeetCode/tree/master/0713-subarray-product-less-than-k) |
