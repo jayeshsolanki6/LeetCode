@@ -23,6 +23,7 @@
 | [0542-01-matrix](https://github.com/jayeshsolanki6/LeetCode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/jayeshsolanki6/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/jayeshsolanki6/LeetCode/tree/master/0621-task-scheduler) |
+| [0699-falling-squares](https://github.com/jayeshsolanki6/LeetCode/tree/master/0699-falling-squares) |
 | [0713-subarray-product-less-than-k](https://github.com/jayeshsolanki6/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0721-accounts-merge](https://github.com/jayeshsolanki6/LeetCode/tree/master/0721-accounts-merge) |
 | [0729-my-calendar-i](https://github.com/jayeshsolanki6/LeetCode/tree/master/0729-my-calendar-i) |
@@ -408,6 +409,7 @@
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/jayeshsolanki6/LeetCode/tree/master/0307-range-sum-query-mutable) |
+| [0699-falling-squares](https://github.com/jayeshsolanki6/LeetCode/tree/master/0699-falling-squares) |
 | [0729-my-calendar-i](https://github.com/jayeshsolanki6/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/jayeshsolanki6/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/jayeshsolanki6/LeetCode/tree/master/0732-my-calendar-iii) |
@@ -415,6 +417,7 @@
 |  |
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/jayeshsolanki6/LeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0699-falling-squares](https://github.com/jayeshsolanki6/LeetCode/tree/master/0699-falling-squares) |
 | [0729-my-calendar-i](https://github.com/jayeshsolanki6/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/jayeshsolanki6/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/jayeshsolanki6/LeetCode/tree/master/0732-my-calendar-iii) |
