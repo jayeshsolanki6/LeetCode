@@ -14,6 +14,7 @@
 | [0135-candy](https://github.com/jayeshsolanki6/LeetCode/tree/master/0135-candy) |
 | [0200-number-of-islands](https://github.com/jayeshsolanki6/LeetCode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/jayeshsolanki6/LeetCode/tree/master/0204-count-primes) |
+| [0238-product-of-array-except-self](https://github.com/jayeshsolanki6/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/jayeshsolanki6/LeetCode/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/jayeshsolanki6/LeetCode/tree/master/0274-h-index) |
 | [0303-range-sum-query-immutable](https://github.com/jayeshsolanki6/LeetCode/tree/master/0303-range-sum-query-immutable) |
@@ -400,6 +401,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/jayeshsolanki6/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/jayeshsolanki6/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/jayeshsolanki6/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/jayeshsolanki6/LeetCode/tree/master/0560-subarray-sum-equals-k) |
