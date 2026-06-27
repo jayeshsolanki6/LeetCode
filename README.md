@@ -171,6 +171,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/jayeshsolanki6/LeetCode/tree/master/0013-roman-to-integer) |
 | [0126-word-ladder-ii](https://github.com/jayeshsolanki6/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/jayeshsolanki6/LeetCode/tree/master/0127-word-ladder) |
 | [0347-top-k-frequent-elements](https://github.com/jayeshsolanki6/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -196,6 +197,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/jayeshsolanki6/LeetCode/tree/master/0013-roman-to-integer) |
 | [0126-word-ladder-ii](https://github.com/jayeshsolanki6/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/jayeshsolanki6/LeetCode/tree/master/0127-word-ladder) |
 | [0678-valid-parenthesis-string](https://github.com/jayeshsolanki6/LeetCode/tree/master/0678-valid-parenthesis-string) |
@@ -220,6 +222,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/jayeshsolanki6/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/jayeshsolanki6/LeetCode/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/jayeshsolanki6/LeetCode/tree/master/0204-count-primes) |
 | [0372-super-pow](https://github.com/jayeshsolanki6/LeetCode/tree/master/0372-super-pow) |
