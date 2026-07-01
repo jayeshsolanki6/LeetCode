@@ -180,6 +180,7 @@
 | [0352-data-stream-as-disjoint-intervals](https://github.com/jayeshsolanki6/LeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0355-design-twitter](https://github.com/jayeshsolanki6/LeetCode/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jayeshsolanki6/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0383-ransom-note](https://github.com/jayeshsolanki6/LeetCode/tree/master/0383-ransom-note) |
 | [0525-contiguous-array](https://github.com/jayeshsolanki6/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/jayeshsolanki6/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/jayeshsolanki6/LeetCode/tree/master/0621-task-scheduler) |
@@ -206,6 +207,7 @@
 | [0058-length-of-last-word](https://github.com/jayeshsolanki6/LeetCode/tree/master/0058-length-of-last-word) |
 | [0126-word-ladder-ii](https://github.com/jayeshsolanki6/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/jayeshsolanki6/LeetCode/tree/master/0127-word-ladder) |
+| [0383-ransom-note](https://github.com/jayeshsolanki6/LeetCode/tree/master/0383-ransom-note) |
 | [0678-valid-parenthesis-string](https://github.com/jayeshsolanki6/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/jayeshsolanki6/LeetCode/tree/master/0721-accounts-merge) |
 | [0796-rotate-string](https://github.com/jayeshsolanki6/LeetCode/tree/master/0796-rotate-string) |
@@ -365,6 +367,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/jayeshsolanki6/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/jayeshsolanki6/LeetCode/tree/master/0383-ransom-note) |
 | [0621-task-scheduler](https://github.com/jayeshsolanki6/LeetCode/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/jayeshsolanki6/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/jayeshsolanki6/LeetCode/tree/master/1189-maximum-number-of-balloons) |
