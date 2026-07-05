@@ -49,6 +49,7 @@
 | [1109-corporate-flight-bookings](https://github.com/jayeshsolanki6/LeetCode/tree/master/1109-corporate-flight-bookings) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/jayeshsolanki6/LeetCode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/jayeshsolanki6/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1301-number-of-paths-with-max-score](https://github.com/jayeshsolanki6/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1627-graph-connectivity-with-threshold](https://github.com/jayeshsolanki6/LeetCode/tree/master/1627-graph-connectivity-with-threshold) |
 | [1631-path-with-minimum-effort](https://github.com/jayeshsolanki6/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1861-rotating-the-box](https://github.com/jayeshsolanki6/LeetCode/tree/master/1861-rotating-the-box) |
@@ -96,6 +97,7 @@
 | [1020-number-of-enclaves](https://github.com/jayeshsolanki6/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/jayeshsolanki6/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/jayeshsolanki6/LeetCode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1301-number-of-paths-with-max-score](https://github.com/jayeshsolanki6/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1631-path-with-minimum-effort](https://github.com/jayeshsolanki6/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1861-rotating-the-box](https://github.com/jayeshsolanki6/LeetCode/tree/master/1861-rotating-the-box) |
 ## Depth-First Search
@@ -151,6 +153,7 @@
 | [0542-01-matrix](https://github.com/jayeshsolanki6/LeetCode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/jayeshsolanki6/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jayeshsolanki6/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1301-number-of-paths-with-max-score](https://github.com/jayeshsolanki6/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/jayeshsolanki6/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1947-maximum-compatibility-score-sum](https://github.com/jayeshsolanki6/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/jayeshsolanki6/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
