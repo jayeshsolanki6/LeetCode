@@ -12,9 +12,7 @@ class Solution {
                 if(i == j-1){
                     s += nums[i];
                 } else{
-                    s += nums[i];
-                    s += "->";
-                    s += nums[j-1];
+                    s = nums[i] + "->" + nums[j-1];
                 }
                 list.add(s);
                 i = j;
@@ -25,9 +23,7 @@ class Solution {
         if(i == j-1){
             s += nums[i];
         } else{
-            s += nums[i];
-            s += "->";
-            s += nums[j-1];
+            s = nums[i] + "->" + nums[j-1];
         }
         list.add(s);
         return list;
