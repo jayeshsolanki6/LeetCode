@@ -49,6 +49,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/jayeshsolanki6/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1094-car-pooling](https://github.com/jayeshsolanki6/LeetCode/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/jayeshsolanki6/LeetCode/tree/master/1109-corporate-flight-bookings) |
+| [1288-remove-covered-intervals](https://github.com/jayeshsolanki6/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/jayeshsolanki6/LeetCode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/jayeshsolanki6/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1301-number-of-paths-with-max-score](https://github.com/jayeshsolanki6/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
@@ -307,6 +308,7 @@
 | [0721-accounts-merge](https://github.com/jayeshsolanki6/LeetCode/tree/master/0721-accounts-merge) |
 | [0846-hand-of-straights](https://github.com/jayeshsolanki6/LeetCode/tree/master/0846-hand-of-straights) |
 | [1094-car-pooling](https://github.com/jayeshsolanki6/LeetCode/tree/master/1094-car-pooling) |
+| [1288-remove-covered-intervals](https://github.com/jayeshsolanki6/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/jayeshsolanki6/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2126-destroying-asteroids](https://github.com/jayeshsolanki6/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2402-meeting-rooms-iii](https://github.com/jayeshsolanki6/LeetCode/tree/master/2402-meeting-rooms-iii) |
