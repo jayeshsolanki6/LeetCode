@@ -185,6 +185,7 @@
 | [0049-group-anagrams](https://github.com/jayeshsolanki6/LeetCode/tree/master/0049-group-anagrams) |
 | [0126-word-ladder-ii](https://github.com/jayeshsolanki6/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/jayeshsolanki6/LeetCode/tree/master/0127-word-ladder) |
+| [0202-happy-number](https://github.com/jayeshsolanki6/LeetCode/tree/master/0202-happy-number) |
 | [0290-word-pattern](https://github.com/jayeshsolanki6/LeetCode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/jayeshsolanki6/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/jayeshsolanki6/LeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
@@ -247,6 +248,7 @@
 | [0012-integer-to-roman](https://github.com/jayeshsolanki6/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/jayeshsolanki6/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/jayeshsolanki6/LeetCode/tree/master/0050-powx-n) |
+| [0202-happy-number](https://github.com/jayeshsolanki6/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/jayeshsolanki6/LeetCode/tree/master/0204-count-primes) |
 | [0372-super-pow](https://github.com/jayeshsolanki6/LeetCode/tree/master/0372-super-pow) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jayeshsolanki6/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -261,6 +263,7 @@
 | [0042-trapping-rain-water](https://github.com/jayeshsolanki6/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jayeshsolanki6/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/jayeshsolanki6/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/jayeshsolanki6/LeetCode/tree/master/0202-happy-number) |
 | [0295-find-median-from-data-stream](https://github.com/jayeshsolanki6/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [1861-rotating-the-box](https://github.com/jayeshsolanki6/LeetCode/tree/master/1861-rotating-the-box) |
 | [2540-minimum-common-value](https://github.com/jayeshsolanki6/LeetCode/tree/master/2540-minimum-common-value) |
