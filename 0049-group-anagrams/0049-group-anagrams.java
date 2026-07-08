@@ -11,11 +11,6 @@ class Solution {
             map.get(ss).add(s);
         }
 
-        List<List<String>> res = new ArrayList<>();
-        for(List<String> li : map.values()){
-            res.add(li);
-        }
-
-        return res;
+        return new ArrayList<>(map.values());
     }
 }
