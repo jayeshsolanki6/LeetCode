@@ -1,11 +1,10 @@
 class Solution {
     public String simplifyPath(String path) {
-        path = path.replaceAll("/+", " ").trim();
-        String[] dir = path.split(" ");
+        String[] dir = path.split("/");
         Deque<String> dq = new ArrayDeque<>();
 
         for(String s : dir){
-            if(s.equals(".")) continue;
+            if(s.equals("") || s.equals(".")) continue;
             if(s.equals("..")){
                 if(!dq.isEmpty()){
                      dq.removeLast();
