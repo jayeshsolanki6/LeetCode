@@ -221,6 +221,7 @@
 | [0071-simplify-path](https://github.com/jayeshsolanki6/LeetCode/tree/master/0071-simplify-path) |
 | [0126-word-ladder-ii](https://github.com/jayeshsolanki6/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/jayeshsolanki6/LeetCode/tree/master/0127-word-ladder) |
+| [0224-basic-calculator](https://github.com/jayeshsolanki6/LeetCode/tree/master/0224-basic-calculator) |
 | [0290-word-pattern](https://github.com/jayeshsolanki6/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/jayeshsolanki6/LeetCode/tree/master/0383-ransom-note) |
 | [0678-valid-parenthesis-string](https://github.com/jayeshsolanki6/LeetCode/tree/master/0678-valid-parenthesis-string) |
@@ -251,6 +252,7 @@
 | [0050-powx-n](https://github.com/jayeshsolanki6/LeetCode/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/jayeshsolanki6/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/jayeshsolanki6/LeetCode/tree/master/0204-count-primes) |
+| [0224-basic-calculator](https://github.com/jayeshsolanki6/LeetCode/tree/master/0224-basic-calculator) |
 | [0372-super-pow](https://github.com/jayeshsolanki6/LeetCode/tree/master/0372-super-pow) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jayeshsolanki6/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/jayeshsolanki6/LeetCode/tree/master/0396-rotate-function) |
@@ -324,6 +326,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/jayeshsolanki6/LeetCode/tree/master/0050-powx-n) |
+| [0224-basic-calculator](https://github.com/jayeshsolanki6/LeetCode/tree/master/0224-basic-calculator) |
 | [1922-count-good-numbers](https://github.com/jayeshsolanki6/LeetCode/tree/master/1922-count-good-numbers) |
 ## Divide and Conquer
 |  |
@@ -442,6 +445,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jayeshsolanki6/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/jayeshsolanki6/LeetCode/tree/master/0071-simplify-path) |
+| [0224-basic-calculator](https://github.com/jayeshsolanki6/LeetCode/tree/master/0224-basic-calculator) |
 | [0678-valid-parenthesis-string](https://github.com/jayeshsolanki6/LeetCode/tree/master/0678-valid-parenthesis-string) |
 ## Prefix Sum
 |  |
