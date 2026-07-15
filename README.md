@@ -7,6 +7,7 @@
 | [0042-trapping-rain-water](https://github.com/jayeshsolanki6/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/jayeshsolanki6/LeetCode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/jayeshsolanki6/LeetCode/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/jayeshsolanki6/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/jayeshsolanki6/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/jayeshsolanki6/LeetCode/tree/master/0057-insert-interval) |
 | [0068-text-justification](https://github.com/jayeshsolanki6/LeetCode/tree/master/0068-text-justification) |
@@ -95,6 +96,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/jayeshsolanki6/LeetCode/tree/master/0054-spiral-matrix) |
 | [0130-surrounded-regions](https://github.com/jayeshsolanki6/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/jayeshsolanki6/LeetCode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/jayeshsolanki6/LeetCode/tree/master/0542-01-matrix) |
@@ -492,6 +494,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/jayeshsolanki6/LeetCode/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/jayeshsolanki6/LeetCode/tree/master/0068-text-justification) |
 | [1094-car-pooling](https://github.com/jayeshsolanki6/LeetCode/tree/master/1094-car-pooling) |
 | [2402-meeting-rooms-iii](https://github.com/jayeshsolanki6/LeetCode/tree/master/2402-meeting-rooms-iii) |
