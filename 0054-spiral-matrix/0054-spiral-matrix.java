@@ -13,20 +13,22 @@ class Solution {
                 list.add(matrix[t][i]);
             }
             t++;
+            if(b < t) break;
             for(int i = t; i<=b; i++){
                 list.add(matrix[i][r]);
             }
             r--;
-            if(b < t) break;
+            if(r < l) break;
             for(int i = r; i>=l; i--){
                 list.add(matrix[b][i]);
             }
             b--;
-            if(r < l) break;
+            if(b < t) break;
             for(int i = b; i>=t; i--){
                 list.add(matrix[i][l]);
             }
             l++;
+            if(r < l) break;
         }
         return list;
     }
