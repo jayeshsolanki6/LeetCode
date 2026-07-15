@@ -2,25 +2,23 @@ class Solution {
     public int minHeightShelves(int[][] books, int shelfWidth) {
         int len = books.length;
         int[] dp = new int[len+1]; 
-        Arrays.fill(dp, -1);
-        return find(len-1, shelfWidth, books, dp);
-    }
+        Arrays.fill(dp, Integer.MAX_VALUE);
+        dp[0] = 0;
 
-    int find(int i, int width, int[][] books, int[] dp){
-        if(i < 0) return 0;
+        for(int i = 1; i<=len; i++){
+            int w = 0;
+            int h = 0;
 
-        if(dp[i] != -1) return dp[i];
+            for(int j = i-1; j>=0; j--){
+                if(w + books[j][0] > shelfWidth) break;
+                w += books[j][0];
+                h = Math.max(h, books[j][1]);
 
-        int minH = Integer.MAX_VALUE;
-        int h = 0;
-        int w = 0;
-        for(int j = i; j >= 0; j--){
-            if(w + books[j][0] > width) break;
-            w += books[j][0];
-            h = Math.max(h, books[j][1]);
-            minH = Math.min(minH, h + find(j-1, width, books, dp));
+                dp[i] = Math.min(dp[i], dp[j]+h);
+            }
         }
 
-        return dp[i] = minH;
+        return dp[len];
     }
+    
 }
