@@ -80,6 +80,7 @@
 | [0210-course-schedule-ii](https://github.com/jayeshsolanki6/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/jayeshsolanki6/LeetCode/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/jayeshsolanki6/LeetCode/tree/master/0433-minimum-genetic-mutation) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/jayeshsolanki6/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0542-01-matrix](https://github.com/jayeshsolanki6/LeetCode/tree/master/0542-01-matrix) |
 | [0684-redundant-connection](https://github.com/jayeshsolanki6/LeetCode/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/jayeshsolanki6/LeetCode/tree/master/0721-accounts-merge) |
@@ -124,6 +125,7 @@
 | [0207-course-schedule](https://github.com/jayeshsolanki6/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/jayeshsolanki6/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/jayeshsolanki6/LeetCode/tree/master/0399-evaluate-division) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/jayeshsolanki6/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0684-redundant-connection](https://github.com/jayeshsolanki6/LeetCode/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/jayeshsolanki6/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/jayeshsolanki6/LeetCode/tree/master/0733-flood-fill) |
@@ -422,6 +424,7 @@
 ## Tree
 |  |
 | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/jayeshsolanki6/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/jayeshsolanki6/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/jayeshsolanki6/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Design
@@ -440,10 +443,12 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/jayeshsolanki6/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/jayeshsolanki6/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
 | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/jayeshsolanki6/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/jayeshsolanki6/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/jayeshsolanki6/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Data Stream
