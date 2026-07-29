@@ -10,20 +10,21 @@ class Solution {
                 }
             }
         }
+        
         return true;
     }
     boolean dfs(int i, int[][] graph, int[] vis, int color){
         if(vis[i] != 0){
-            if(vis[i] == color) return true;
-            return false;
+            if(vis[i] != color) return false;
+            return true;
         }
         vis[i] = color;
-        color = (color == 1) ? 2 : 1;
-        for(int n : graph[i]){
-            if(!dfs(n, graph, vis, color)){
+        for(int j : graph[i]){
+            if(!dfs(j, graph, vis, (color == 1)?2:1)){
                 return false;
             }
         }
+
         return true;
     }
 }
