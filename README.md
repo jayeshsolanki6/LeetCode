@@ -212,6 +212,7 @@
 | [0126-word-ladder-ii](https://github.com/jayeshsolanki6/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/jayeshsolanki6/LeetCode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/jayeshsolanki6/LeetCode/tree/master/0133-clone-graph) |
+| [0146-lru-cache](https://github.com/jayeshsolanki6/LeetCode/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/jayeshsolanki6/LeetCode/tree/master/0202-happy-number) |
 | [0290-word-pattern](https://github.com/jayeshsolanki6/LeetCode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/jayeshsolanki6/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -447,6 +448,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/jayeshsolanki6/LeetCode/tree/master/0146-lru-cache) |
 | [0295-find-median-from-data-stream](https://github.com/jayeshsolanki6/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/jayeshsolanki6/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/jayeshsolanki6/LeetCode/tree/master/0307-range-sum-query-mutable) |
@@ -477,6 +479,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/jayeshsolanki6/LeetCode/tree/master/0146-lru-cache) |
 | [0355-design-twitter](https://github.com/jayeshsolanki6/LeetCode/tree/master/0355-design-twitter) |
 ## Bucket Sort
 |  |
@@ -550,4 +553,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jayeshsolanki6/LeetCode/tree/master/0042-trapping-rain-water) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/jayeshsolanki6/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
