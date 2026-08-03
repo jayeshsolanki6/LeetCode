@@ -3,25 +3,21 @@ class Solution {
         int V = graph.length;
         boolean[] vis = new boolean[V];
         boolean[] path = new boolean[V];
-        
-        boolean[] unsafe = new boolean[V];
 
         for(int i = 0; i<V; i++){
             if(!vis[i]){
-                if(dfs(i, vis, path, unsafe, graph)){
-                    unsafe[i] = true;
-                }
+                dfs(i, vis, path, graph);
             }
         }
 
         List<Integer> list = new ArrayList<>();
         for(int i = 0; i<V; i++){
-            if(!unsafe[i]) list.add(i);
+            if(!path[i]) list.add(i);
         }
         return list;
         
     }
-    boolean dfs(int i, boolean[] vis, boolean[] path, boolean[] unsafe, int[][] graph){
+    boolean dfs(int i, boolean[] vis, boolean[] path, int[][] graph){
         vis[i] = true;
         path[i] = true;
 
@@ -29,8 +25,7 @@ class Solution {
             if(path[adj]){
                 return true;
             } else if(!vis[adj]){
-                if(dfs(adj, vis, path, unsafe, graph)){
-                    unsafe[adj] = true;
+                if(dfs(adj, vis, path, graph)){
                     return true;
                 }
             }
