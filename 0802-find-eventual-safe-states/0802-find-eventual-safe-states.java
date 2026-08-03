@@ -1,35 +1,42 @@
 class Solution {
     public List<Integer> eventualSafeNodes(int[][] graph) {
-        int nodes = graph.length;
-        List<List<Integer>> rev = new ArrayList<>();
-
-        for(int i = 0; i<nodes; i++){
-            rev.add(new ArrayList<>());
-        }
-
-        int[] inDeg = new int[nodes];
-        for(int i = 0; i<nodes; i++){
-            for(int node : graph[i]){
-                rev.get(node).add(i);
-                inDeg[i]++;
-            }
-        }
+        int V = graph.length;
+        boolean[] vis = new boolean[V];
+        boolean[] path = new boolean[V];
         
-        Queue<Integer> q = new ArrayDeque<>();
-        for(int i = 0; i<nodes; i++){
-            if(inDeg[i] == 0) q.add(i);
-        }
+        boolean[] unsafe = new boolean[V];
 
-        List<Integer> res = new ArrayList<>();
-        while(!q.isEmpty()){
-            int node = q.remove();
-            res.add(node);
-            for(int x : rev.get(node)){
-                inDeg[x]--;
-                if(inDeg[x] == 0) q.add(x);
+        for(int i = 0; i<V; i++){
+            if(!vis[i]){
+                if(dfs(i, vis, path, unsafe, graph)){
+                    unsafe[i] = true;
+                }
             }
         }
-        Collections.sort(res);
-        return res;
+
+        List<Integer> list = new ArrayList<>();
+        for(int i = 0; i<V; i++){
+            if(!unsafe[i]) list.add(i);
+        }
+        return list;
+        
+    }
+    boolean dfs(int i, boolean[] vis, boolean[] path, boolean[] unsafe, int[][] graph){
+        vis[i] = true;
+        path[i] = true;
+
+        for(int adj : graph[i]){
+            if(path[adj]){
+                return true;
+            } else if(!vis[adj]){
+                if(dfs(adj, vis, path, unsafe, graph)){
+                    unsafe[adj] = true;
+                    return true;
+                }
+            }
+        }
+
+        path[i] = false;
+        return false;
     }
 }
