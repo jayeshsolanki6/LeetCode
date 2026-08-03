@@ -104,6 +104,7 @@
 | [1319-number-of-operations-to-make-network-connected](https://github.com/jayeshsolanki6/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/jayeshsolanki6/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/jayeshsolanki6/LeetCode/tree/master/1765-map-of-highest-peak) |
+| [2360-longest-cycle-in-a-graph](https://github.com/jayeshsolanki6/LeetCode/tree/master/2360-longest-cycle-in-a-graph) |
 ## Matrix
 |  |
 | ------- |
@@ -147,6 +148,7 @@
 | [1192-critical-connections-in-a-network](https://github.com/jayeshsolanki6/LeetCode/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/jayeshsolanki6/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/jayeshsolanki6/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [2360-longest-cycle-in-a-graph](https://github.com/jayeshsolanki6/LeetCode/tree/master/2360-longest-cycle-in-a-graph) |
 ## Graph Theory
 |  |
 | ------- |
@@ -164,6 +166,7 @@
 | [1319-number-of-operations-to-make-network-connected](https://github.com/jayeshsolanki6/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/jayeshsolanki6/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/jayeshsolanki6/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2360-longest-cycle-in-a-graph](https://github.com/jayeshsolanki6/LeetCode/tree/master/2360-longest-cycle-in-a-graph) |
 ## Topological Sort
 |  |
 | ------- |
@@ -171,6 +174,7 @@
 | [0210-course-schedule-ii](https://github.com/jayeshsolanki6/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/jayeshsolanki6/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/jayeshsolanki6/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2360-longest-cycle-in-a-graph](https://github.com/jayeshsolanki6/LeetCode/tree/master/2360-longest-cycle-in-a-graph) |
 ## Dynamic Programming
 |  |
 | ------- |
