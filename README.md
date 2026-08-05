@@ -165,6 +165,7 @@
 | [1192-critical-connections-in-a-network](https://github.com/jayeshsolanki6/LeetCode/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/jayeshsolanki6/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/jayeshsolanki6/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/jayeshsolanki6/LeetCode/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/jayeshsolanki6/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2360-longest-cycle-in-a-graph](https://github.com/jayeshsolanki6/LeetCode/tree/master/2360-longest-cycle-in-a-graph) |
 ## Topological Sort
@@ -173,6 +174,7 @@
 | [0207-course-schedule](https://github.com/jayeshsolanki6/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/jayeshsolanki6/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/jayeshsolanki6/LeetCode/tree/master/0802-find-eventual-safe-states) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/jayeshsolanki6/LeetCode/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/jayeshsolanki6/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2360-longest-cycle-in-a-graph](https://github.com/jayeshsolanki6/LeetCode/tree/master/2360-longest-cycle-in-a-graph) |
 ## Dynamic Programming
@@ -189,6 +191,7 @@
 | [1105-filling-bookcase-shelves](https://github.com/jayeshsolanki6/LeetCode/tree/master/1105-filling-bookcase-shelves) |
 | [1301-number-of-paths-with-max-score](https://github.com/jayeshsolanki6/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/jayeshsolanki6/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/jayeshsolanki6/LeetCode/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1947-maximum-compatibility-score-sum](https://github.com/jayeshsolanki6/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/jayeshsolanki6/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Union-Find
@@ -239,6 +242,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/jayeshsolanki6/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/jayeshsolanki6/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jayeshsolanki6/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/jayeshsolanki6/LeetCode/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/jayeshsolanki6/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2402-meeting-rooms-iii](https://github.com/jayeshsolanki6/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2540-minimum-common-value](https://github.com/jayeshsolanki6/LeetCode/tree/master/2540-minimum-common-value) |
@@ -270,6 +274,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/jayeshsolanki6/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/jayeshsolanki6/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jayeshsolanki6/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/jayeshsolanki6/LeetCode/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2156-find-substring-with-given-hash-value](https://github.com/jayeshsolanki6/LeetCode/tree/master/2156-find-substring-with-given-hash-value) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jayeshsolanki6/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jayeshsolanki6/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -449,6 +454,7 @@
 | [0692-top-k-frequent-words](https://github.com/jayeshsolanki6/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0992-subarrays-with-k-different-integers](https://github.com/jayeshsolanki6/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/jayeshsolanki6/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/jayeshsolanki6/LeetCode/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jayeshsolanki6/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Tree
 |  |
@@ -569,4 +575,12 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/jayeshsolanki6/LeetCode/tree/master/0146-lru-cache) |
+## Memoization
+|  |
+| ------- |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/jayeshsolanki6/LeetCode/tree/master/1857-largest-color-value-in-a-directed-graph) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/jayeshsolanki6/LeetCode/tree/master/1857-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
