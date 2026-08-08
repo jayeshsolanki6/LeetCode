@@ -82,6 +82,7 @@
 | [0200-number-of-islands](https://github.com/jayeshsolanki6/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/jayeshsolanki6/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/jayeshsolanki6/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/jayeshsolanki6/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/jayeshsolanki6/LeetCode/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/jayeshsolanki6/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/jayeshsolanki6/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -133,6 +134,7 @@
 | [0200-number-of-islands](https://github.com/jayeshsolanki6/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/jayeshsolanki6/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/jayeshsolanki6/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/jayeshsolanki6/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/jayeshsolanki6/LeetCode/tree/master/0399-evaluate-division) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/jayeshsolanki6/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0684-redundant-connection](https://github.com/jayeshsolanki6/LeetCode/tree/master/0684-redundant-connection) |
@@ -157,6 +159,7 @@
 | [0133-clone-graph](https://github.com/jayeshsolanki6/LeetCode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/jayeshsolanki6/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/jayeshsolanki6/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/jayeshsolanki6/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/jayeshsolanki6/LeetCode/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/jayeshsolanki6/LeetCode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/jayeshsolanki6/LeetCode/tree/master/0743-network-delay-time) |
@@ -176,6 +179,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/jayeshsolanki6/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/jayeshsolanki6/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/jayeshsolanki6/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0802-find-eventual-safe-states](https://github.com/jayeshsolanki6/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/jayeshsolanki6/LeetCode/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/jayeshsolanki6/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
