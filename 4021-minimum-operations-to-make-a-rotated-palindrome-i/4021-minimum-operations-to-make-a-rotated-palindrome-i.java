@@ -13,10 +13,8 @@ class Solution {
     int opToMakePali(int i, int j, String s){
         int cost = 0;
         while(i < j){
-            int a = s.charAt(i), b = s.charAt(j);
-            int max = Math.max(a, b);
-            int min = Math.min(a, b);
-            cost += Math.min(max-min, min + 26 - max);
+            int diff = Math.abs(s.charAt(i) - s.charAt(j));
+            cost += Math.min(diff, 26 - diff);
             i++; j--;
         }
         return cost;
