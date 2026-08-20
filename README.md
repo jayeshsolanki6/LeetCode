@@ -278,6 +278,7 @@
 | [0290-word-pattern](https://github.com/jayeshsolanki6/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/jayeshsolanki6/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/jayeshsolanki6/LeetCode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/jayeshsolanki6/LeetCode/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/jayeshsolanki6/LeetCode/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/jayeshsolanki6/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0678-valid-parenthesis-string](https://github.com/jayeshsolanki6/LeetCode/tree/master/0678-valid-parenthesis-string) |
@@ -397,6 +398,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/jayeshsolanki6/LeetCode/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/jayeshsolanki6/LeetCode/tree/master/0224-basic-calculator) |
+| [0394-decode-string](https://github.com/jayeshsolanki6/LeetCode/tree/master/0394-decode-string) |
 | [1922-count-good-numbers](https://github.com/jayeshsolanki6/LeetCode/tree/master/1922-count-good-numbers) |
 ## Divide and Conquer
 |  |
@@ -535,6 +537,7 @@
 | [0071-simplify-path](https://github.com/jayeshsolanki6/LeetCode/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/jayeshsolanki6/LeetCode/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/jayeshsolanki6/LeetCode/tree/master/0224-basic-calculator) |
+| [0394-decode-string](https://github.com/jayeshsolanki6/LeetCode/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/jayeshsolanki6/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/jayeshsolanki6/LeetCode/tree/master/0844-backspace-string-compare) |
 ## Prefix Sum
