@@ -1,42 +1,35 @@
-class Pair {
-    int x, y;
-    Pair(int x, int y){
-        this.x = x;
-        this.y = y;
-    }
-}
 class MinStack {
-    Stack<Pair> stack;
+    int min;
+    List<int[]> list;
     public MinStack() {
-        stack = new Stack<>();
+        list = new ArrayList<>();
+        min = Integer.MAX_VALUE;
     }
     
-    public void push(int val) {
-        if(stack.isEmpty()){
-            stack.push(new Pair(val, val));
-        } else{
-            int min = Math.min(stack.peek().y, val);
-            stack.push(new Pair(val, min));
-        }
+    public void push(int value) {
+        min = Math.min(min, value);
+        list.add(new int[]{value, min});
     }
     
     public void pop() {
-        stack.pop();
+        list.remove(list.size()-1);
+        if(list.size() > 0) min = list.get(list.size()-1)[1];
+        else min = Integer.MAX_VALUE;
     }
     
     public int top() {
-        return stack.peek().x;
+        return list.get(list.size()-1)[0];
     }
     
     public int getMin() {
-        return stack.peek().y;
+        return list.get(list.size()-1)[1];
     }
 }
 
 /**
  * Your MinStack object will be instantiated and called as such:
  * MinStack obj = new MinStack();
- * obj.push(val);
+ * obj.push(value);
  * obj.pop();
  * int param_3 = obj.top();
  * int param_4 = obj.getMin();
