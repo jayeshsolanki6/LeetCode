@@ -1,24 +1,19 @@
 class Solution {
     public int findMaxLength(int[] nums) {
         int len = nums.length;
-        int diff = 0;
+        int res = 0;
+        int preSum = (nums[0] == 1) ? 1 : -1;
 
         HashMap<Integer, Integer> map = new HashMap<>();
-
-        int max = 0;
-        for(int i = 0; i<len; i++){
-            if(nums[i] == 1) diff++;
-            else diff--;
-
-            if(diff == 0) max = i+1;
-            if(map.containsKey(diff)){
-                max = Math.max(max, i-map.get(diff));
-            } else{
-                map.put(diff, i);
-            }
-        }
-
-        return max;
+        map.put(preSum, 0);
         
+        for(int i = 1; i<len; i++){
+            preSum += ((nums[i] == 1) ? 1 : -1);
+            if(preSum == 0) res = i+1;
+            else if(map.containsKey(preSum)){
+                res = Math.max(res, i - map.get(preSum));
+            } else map.put(preSum, i);
+        }
+        return res;
     }
 }
