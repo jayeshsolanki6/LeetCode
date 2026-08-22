@@ -250,6 +250,7 @@
 | [0721-accounts-merge](https://github.com/jayeshsolanki6/LeetCode/tree/master/0721-accounts-merge) |
 | [0815-bus-routes](https://github.com/jayeshsolanki6/LeetCode/tree/master/0815-bus-routes) |
 | [0846-hand-of-straights](https://github.com/jayeshsolanki6/LeetCode/tree/master/0846-hand-of-straights) |
+| [0895-maximum-frequency-stack](https://github.com/jayeshsolanki6/LeetCode/tree/master/0895-maximum-frequency-stack) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/jayeshsolanki6/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/jayeshsolanki6/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/jayeshsolanki6/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -513,6 +514,7 @@
 | [0729-my-calendar-i](https://github.com/jayeshsolanki6/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/jayeshsolanki6/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/jayeshsolanki6/LeetCode/tree/master/0732-my-calendar-iii) |
+| [0895-maximum-frequency-stack](https://github.com/jayeshsolanki6/LeetCode/tree/master/0895-maximum-frequency-stack) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -557,6 +559,7 @@
 | [0678-valid-parenthesis-string](https://github.com/jayeshsolanki6/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/jayeshsolanki6/LeetCode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/jayeshsolanki6/LeetCode/tree/master/0844-backspace-string-compare) |
+| [0895-maximum-frequency-stack](https://github.com/jayeshsolanki6/LeetCode/tree/master/0895-maximum-frequency-stack) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -591,6 +594,7 @@
 | [0729-my-calendar-i](https://github.com/jayeshsolanki6/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/jayeshsolanki6/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/jayeshsolanki6/LeetCode/tree/master/0732-my-calendar-iii) |
+| [0895-maximum-frequency-stack](https://github.com/jayeshsolanki6/LeetCode/tree/master/0895-maximum-frequency-stack) |
 ## Simulation
 |  |
 | ------- |
