@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/jayeshsolanki6/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/jayeshsolanki6/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/jayeshsolanki6/LeetCode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/jayeshsolanki6/LeetCode/tree/master/0049-group-anagrams) |
@@ -230,6 +231,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/jayeshsolanki6/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/jayeshsolanki6/LeetCode/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/jayeshsolanki6/LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/jayeshsolanki6/LeetCode/tree/master/0049-group-anagrams) |
 | [0126-word-ladder-ii](https://github.com/jayeshsolanki6/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/jayeshsolanki6/LeetCode/tree/master/0127-word-ladder) |
