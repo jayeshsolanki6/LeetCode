@@ -637,6 +637,7 @@
 ## Database
 |  |
 | ------- |
+| [0601-human-traffic-of-stadium](https://github.com/jayeshsolanki6/LeetCode/tree/master/0601-human-traffic-of-stadium) |
 | [0608-tree-node](https://github.com/jayeshsolanki6/LeetCode/tree/master/0608-tree-node) |
 ## Queue
 |  |
