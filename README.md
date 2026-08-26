@@ -67,6 +67,7 @@
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/jayeshsolanki6/LeetCode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/jayeshsolanki6/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1301-number-of-paths-with-max-score](https://github.com/jayeshsolanki6/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
+| [1406-stone-game-iii](https://github.com/jayeshsolanki6/LeetCode/tree/master/1406-stone-game-iii) |
 | [1627-graph-connectivity-with-threshold](https://github.com/jayeshsolanki6/LeetCode/tree/master/1627-graph-connectivity-with-threshold) |
 | [1631-path-with-minimum-effort](https://github.com/jayeshsolanki6/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/jayeshsolanki6/LeetCode/tree/master/1765-map-of-highest-peak) |
@@ -208,6 +209,7 @@
 | [1105-filling-bookcase-shelves](https://github.com/jayeshsolanki6/LeetCode/tree/master/1105-filling-bookcase-shelves) |
 | [1301-number-of-paths-with-max-score](https://github.com/jayeshsolanki6/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/jayeshsolanki6/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1406-stone-game-iii](https://github.com/jayeshsolanki6/LeetCode/tree/master/1406-stone-game-iii) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/jayeshsolanki6/LeetCode/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1947-maximum-compatibility-score-sum](https://github.com/jayeshsolanki6/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/jayeshsolanki6/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -333,6 +335,7 @@
 | [0877-stone-game](https://github.com/jayeshsolanki6/LeetCode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/jayeshsolanki6/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/jayeshsolanki6/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1406-stone-game-iii](https://github.com/jayeshsolanki6/LeetCode/tree/master/1406-stone-game-iii) |
 | [1627-graph-connectivity-with-threshold](https://github.com/jayeshsolanki6/LeetCode/tree/master/1627-graph-connectivity-with-threshold) |
 | [1922-count-good-numbers](https://github.com/jayeshsolanki6/LeetCode/tree/master/1922-count-good-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jayeshsolanki6/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -670,12 +673,15 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/jayeshsolanki6/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/jayeshsolanki6/LeetCode/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/jayeshsolanki6/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/jayeshsolanki6/LeetCode/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/jayeshsolanki6/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/jayeshsolanki6/LeetCode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
