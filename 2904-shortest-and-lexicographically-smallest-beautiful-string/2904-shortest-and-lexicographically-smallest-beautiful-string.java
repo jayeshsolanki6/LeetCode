@@ -1,7 +1,7 @@
 class Solution {
     public String shortestBeautifulSubstring(String s, int k) {
         int len = s.length();
-        ArrayList<String> list = new ArrayList<>();
+        String res = "";
         int cnt = 0;
         int i = 0;
         for(int j = 0; j<len; j++){
@@ -14,13 +14,18 @@ class Solution {
                     }
                     i++;
                 }
-                list.add(s.substring(i-1, j+1));
+                String str = s.substring(i-1, j+1);
+                if(res.length() == 0 || res.length() > str.length()){
+                    res = str;
+                } else if(res.length() == str.length()){
+                    if(str.compareTo(res) < 0){
+                        res = str;
+                    }
+                }
+
             }
         }
-        if(list.size() == 0) return "";
-        Collections.sort(list, (a, b) -> (
-            (a.length() == b.length()) ? a.compareTo(b) : a.length() - b.length())
-        );
-        return list.get(0);
+        
+        return res;
     }
 }
