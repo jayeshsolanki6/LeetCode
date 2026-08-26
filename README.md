@@ -52,6 +52,7 @@
 | [0815-bus-routes](https://github.com/jayeshsolanki6/LeetCode/tree/master/0815-bus-routes) |
 | [0827-making-a-large-island](https://github.com/jayeshsolanki6/LeetCode/tree/master/0827-making-a-large-island) |
 | [0846-hand-of-straights](https://github.com/jayeshsolanki6/LeetCode/tree/master/0846-hand-of-straights) |
+| [0877-stone-game](https://github.com/jayeshsolanki6/LeetCode/tree/master/0877-stone-game) |
 | [0909-snakes-and-ladders](https://github.com/jayeshsolanki6/LeetCode/tree/master/0909-snakes-and-ladders) |
 | [0973-k-closest-points-to-origin](https://github.com/jayeshsolanki6/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/jayeshsolanki6/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -203,6 +204,7 @@
 | [0542-01-matrix](https://github.com/jayeshsolanki6/LeetCode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/jayeshsolanki6/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jayeshsolanki6/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0877-stone-game](https://github.com/jayeshsolanki6/LeetCode/tree/master/0877-stone-game) |
 | [1105-filling-bookcase-shelves](https://github.com/jayeshsolanki6/LeetCode/tree/master/1105-filling-bookcase-shelves) |
 | [1301-number-of-paths-with-max-score](https://github.com/jayeshsolanki6/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/jayeshsolanki6/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -328,6 +330,7 @@
 | [0372-super-pow](https://github.com/jayeshsolanki6/LeetCode/tree/master/0372-super-pow) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jayeshsolanki6/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/jayeshsolanki6/LeetCode/tree/master/0396-rotate-function) |
+| [0877-stone-game](https://github.com/jayeshsolanki6/LeetCode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/jayeshsolanki6/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/jayeshsolanki6/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1627-graph-connectivity-with-threshold](https://github.com/jayeshsolanki6/LeetCode/tree/master/1627-graph-connectivity-with-threshold) |
@@ -663,4 +666,16 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/jayeshsolanki6/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/jayeshsolanki6/LeetCode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/jayeshsolanki6/LeetCode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/jayeshsolanki6/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
