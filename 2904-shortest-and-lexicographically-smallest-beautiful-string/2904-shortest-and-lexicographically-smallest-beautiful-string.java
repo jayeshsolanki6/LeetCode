@@ -3,7 +3,6 @@ class Solution {
         int len = s.length();
         ArrayList<String> list = new ArrayList<>();
         int cnt = 0;
-        int min = Integer.MAX_VALUE;
         int i = 0;
         for(int j = 0; j<len; j++){
             if(s.charAt(j) == '1') cnt++;
@@ -15,16 +14,13 @@ class Solution {
                     }
                     i++;
                 }
-                min = Math.min(min, j-i+2);
                 list.add(s.substring(i-1, j+1));
             }
         }
         if(list.size() == 0) return "";
-        ArrayList<String> l = new ArrayList<>();
-        for(String str : list){
-            if(str.length() == min) l.add(str);
-        }
-        Collections.sort(l);
-        return l.get(0);
+        Collections.sort(list, (a, b) -> (
+            (a.length() == b.length()) ? a.compareTo(b) : a.length() - b.length())
+        );
+        return list.get(0);
     }
 }
