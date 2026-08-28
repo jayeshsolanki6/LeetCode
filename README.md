@@ -75,6 +75,7 @@
 | [1947-maximum-compatibility-score-sum](https://github.com/jayeshsolanki6/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
 | [2126-destroying-asteroids](https://github.com/jayeshsolanki6/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/jayeshsolanki6/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/jayeshsolanki6/LeetCode/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2402-meeting-rooms-iii](https://github.com/jayeshsolanki6/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2540-minimum-common-value](https://github.com/jayeshsolanki6/LeetCode/tree/master/2540-minimum-common-value) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jayeshsolanki6/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -303,6 +304,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jayeshsolanki6/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/jayeshsolanki6/LeetCode/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2156-find-substring-with-given-hash-value](https://github.com/jayeshsolanki6/LeetCode/tree/master/2156-find-substring-with-given-hash-value) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/jayeshsolanki6/LeetCode/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/jayeshsolanki6/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jayeshsolanki6/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jayeshsolanki6/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -381,6 +383,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/jayeshsolanki6/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1094-car-pooling](https://github.com/jayeshsolanki6/LeetCode/tree/master/1094-car-pooling) |
 | [1631-path-with-minimum-effort](https://github.com/jayeshsolanki6/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/jayeshsolanki6/LeetCode/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2402-meeting-rooms-iii](https://github.com/jayeshsolanki6/LeetCode/tree/master/2402-meeting-rooms-iii) |
 ## Shortest Path
 |  |
@@ -411,6 +414,7 @@
 | [1288-remove-covered-intervals](https://github.com/jayeshsolanki6/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/jayeshsolanki6/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2126-destroying-asteroids](https://github.com/jayeshsolanki6/LeetCode/tree/master/2126-destroying-asteroids) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/jayeshsolanki6/LeetCode/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2402-meeting-rooms-iii](https://github.com/jayeshsolanki6/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jayeshsolanki6/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Recursion
@@ -428,6 +432,7 @@
 | [0347-top-k-frequent-elements](https://github.com/jayeshsolanki6/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0372-super-pow](https://github.com/jayeshsolanki6/LeetCode/tree/master/0372-super-pow) |
 | [0973-k-closest-points-to-origin](https://github.com/jayeshsolanki6/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/jayeshsolanki6/LeetCode/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Biconnected Component
 |  |
 | ------- |
@@ -557,6 +562,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/jayeshsolanki6/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/jayeshsolanki6/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/jayeshsolanki6/LeetCode/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Stack
 |  |
 | ------- |
@@ -684,4 +690,8 @@
 | ------- |
 | [0877-stone-game](https://github.com/jayeshsolanki6/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/jayeshsolanki6/LeetCode/tree/master/1406-stone-game-iii) |
+## Radix Sort
+|  |
+| ------- |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/jayeshsolanki6/LeetCode/tree/master/2343-query-kth-smallest-trimmed-number) |
 <!---LeetCode Topics End-->
