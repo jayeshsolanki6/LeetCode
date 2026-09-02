@@ -659,6 +659,7 @@
 | [0601-human-traffic-of-stadium](https://github.com/jayeshsolanki6/LeetCode/tree/master/0601-human-traffic-of-stadium) |
 | [0608-tree-node](https://github.com/jayeshsolanki6/LeetCode/tree/master/0608-tree-node) |
 | [1084-sales-analysis-iii](https://github.com/jayeshsolanki6/LeetCode/tree/master/1084-sales-analysis-iii) |
+| [1158-market-analysis-i](https://github.com/jayeshsolanki6/LeetCode/tree/master/1158-market-analysis-i) |
 | [1179-reformat-department-table](https://github.com/jayeshsolanki6/LeetCode/tree/master/1179-reformat-department-table) |
 ## Queue
 |  |
