@@ -84,6 +84,7 @@
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/jayeshsolanki6/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/jayeshsolanki6/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/jayeshsolanki6/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/jayeshsolanki6/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -345,6 +346,7 @@
 | [1922-count-good-numbers](https://github.com/jayeshsolanki6/LeetCode/tree/master/1922-count-good-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jayeshsolanki6/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/jayeshsolanki6/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/jayeshsolanki6/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
