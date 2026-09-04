@@ -658,6 +658,7 @@
 ## Database
 |  |
 | ------- |
+| [0184-department-highest-salary](https://github.com/jayeshsolanki6/LeetCode/tree/master/0184-department-highest-salary) |
 | [0601-human-traffic-of-stadium](https://github.com/jayeshsolanki6/LeetCode/tree/master/0601-human-traffic-of-stadium) |
 | [0608-tree-node](https://github.com/jayeshsolanki6/LeetCode/tree/master/0608-tree-node) |
 | [1084-sales-analysis-iii](https://github.com/jayeshsolanki6/LeetCode/tree/master/1084-sales-analysis-iii) |
