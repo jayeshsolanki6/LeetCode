@@ -286,6 +286,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jayeshsolanki6/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/jayeshsolanki6/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/jayeshsolanki6/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/jayeshsolanki6/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/jayeshsolanki6/LeetCode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/jayeshsolanki6/LeetCode/tree/master/0071-simplify-path) |
 | [0126-word-ladder-ii](https://github.com/jayeshsolanki6/LeetCode/tree/master/0126-word-ladder-ii) |
@@ -332,6 +333,7 @@
 | [0012-integer-to-roman](https://github.com/jayeshsolanki6/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/jayeshsolanki6/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/jayeshsolanki6/LeetCode/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/jayeshsolanki6/LeetCode/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/jayeshsolanki6/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/jayeshsolanki6/LeetCode/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/jayeshsolanki6/LeetCode/tree/master/0224-basic-calculator) |
@@ -460,6 +462,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/jayeshsolanki6/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/jayeshsolanki6/LeetCode/tree/master/0078-subsets) |
 | [0260-single-number-iii](https://github.com/jayeshsolanki6/LeetCode/tree/master/0260-single-number-iii) |
 | [1947-maximum-compatibility-score-sum](https://github.com/jayeshsolanki6/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
@@ -622,6 +625,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/jayeshsolanki6/LeetCode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/jayeshsolanki6/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/jayeshsolanki6/LeetCode/tree/master/0068-text-justification) |
 | [0844-backspace-string-compare](https://github.com/jayeshsolanki6/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1094-car-pooling](https://github.com/jayeshsolanki6/LeetCode/tree/master/1094-car-pooling) |
