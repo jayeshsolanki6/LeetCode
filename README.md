@@ -220,6 +220,7 @@
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/jayeshsolanki6/LeetCode/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1947-maximum-compatibility-score-sum](https://github.com/jayeshsolanki6/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/jayeshsolanki6/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/jayeshsolanki6/LeetCode/tree/master/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 ## Union-Find
 |  |
 | ------- |
@@ -348,6 +349,7 @@
 | [1406-stone-game-iii](https://github.com/jayeshsolanki6/LeetCode/tree/master/1406-stone-game-iii) |
 | [1627-graph-connectivity-with-threshold](https://github.com/jayeshsolanki6/LeetCode/tree/master/1627-graph-connectivity-with-threshold) |
 | [1922-count-good-numbers](https://github.com/jayeshsolanki6/LeetCode/tree/master/1922-count-good-numbers) |
+| [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/jayeshsolanki6/LeetCode/tree/master/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jayeshsolanki6/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/jayeshsolanki6/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/jayeshsolanki6/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -377,6 +379,7 @@
 | [0778-swim-in-rising-water](https://github.com/jayeshsolanki6/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/jayeshsolanki6/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2540-minimum-common-value](https://github.com/jayeshsolanki6/LeetCode/tree/master/2540-minimum-common-value) |
+| [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/jayeshsolanki6/LeetCode/tree/master/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -470,6 +473,7 @@
 | [0338-counting-bits](https://github.com/jayeshsolanki6/LeetCode/tree/master/0338-counting-bits) |
 | [1947-maximum-compatibility-score-sum](https://github.com/jayeshsolanki6/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/jayeshsolanki6/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/jayeshsolanki6/LeetCode/tree/master/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/jayeshsolanki6/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/jayeshsolanki6/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sliding Window
