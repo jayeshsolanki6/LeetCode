@@ -31,6 +31,7 @@
 | [0283-move-zeroes](https://github.com/jayeshsolanki6/LeetCode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/jayeshsolanki6/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/jayeshsolanki6/LeetCode/tree/master/0307-range-sum-query-mutable) |
+| [0322-coin-change](https://github.com/jayeshsolanki6/LeetCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/jayeshsolanki6/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jayeshsolanki6/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/jayeshsolanki6/LeetCode/tree/master/0396-rotate-function) |
@@ -96,6 +97,7 @@
 | [0207-course-schedule](https://github.com/jayeshsolanki6/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/jayeshsolanki6/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/jayeshsolanki6/LeetCode/tree/master/0310-minimum-height-trees) |
+| [0322-coin-change](https://github.com/jayeshsolanki6/LeetCode/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/jayeshsolanki6/LeetCode/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/jayeshsolanki6/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/jayeshsolanki6/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -204,6 +206,7 @@
 | [0042-trapping-rain-water](https://github.com/jayeshsolanki6/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/jayeshsolanki6/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/jayeshsolanki6/LeetCode/tree/master/0053-maximum-subarray) |
+| [0322-coin-change](https://github.com/jayeshsolanki6/LeetCode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/jayeshsolanki6/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/jayeshsolanki6/LeetCode/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/jayeshsolanki6/LeetCode/tree/master/0396-rotate-function) |
@@ -721,4 +724,12 @@
 |  |
 | ------- |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/jayeshsolanki6/LeetCode/tree/master/2343-query-kth-smallest-trimmed-number) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/jayeshsolanki6/LeetCode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/jayeshsolanki6/LeetCode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
