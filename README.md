@@ -216,6 +216,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/jayeshsolanki6/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/jayeshsolanki6/LeetCode/tree/master/0877-stone-game) |
 | [1105-filling-bookcase-shelves](https://github.com/jayeshsolanki6/LeetCode/tree/master/1105-filling-bookcase-shelves) |
+| [1155-number-of-dice-rolls-with-target-sum](https://github.com/jayeshsolanki6/LeetCode/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/jayeshsolanki6/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1301-number-of-paths-with-max-score](https://github.com/jayeshsolanki6/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/jayeshsolanki6/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
