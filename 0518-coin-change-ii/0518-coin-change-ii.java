@@ -1,20 +1,24 @@
 class Solution {
     public int change(int amount, int[] coins) {
+        int len = coins.length;
         int[][] dp = new int[amount+1][coins.length];
-        for(int[] row : dp) Arrays.fill(row, -1);
+        
+        for(int i = 0; i<len; i++) dp[0][i] = 1;
 
-        return find(amount, coins.length-1, coins, dp);
+        for(int a = 1; a<=amount; a++){
+            for(int i = 0; i<len; i++){
+                int take = 0, notTake = 0;
+                if(a >= coins[i]){
+                    take = dp[a-coins[i]][i];
+                }
+                if(i > 0){
+                    notTake = dp[a][i-1];
+                }
+                dp[a][i] = take + notTake;
+            }
+        }
+
+        return dp[amount][len-1];
     }
-    int find(int amount, int i, int[] coins, int[][] dp){
-        if(amount < 0) return 0;
-        if(amount == 0) return 1;
-        if(i == -1) return 0;
 
-        if(dp[amount][i] != -1) return dp[amount][i];
-
-        int take = find(amount - coins[i], i, coins, dp);
-        int notTake = find(amount, i-1, coins, dp);
-
-        return dp[amount][i] = take + notTake;
-    }
 }
