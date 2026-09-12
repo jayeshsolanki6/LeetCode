@@ -2,22 +2,21 @@ class Solution {
     int mod = (int)1e9 + 7;
     public int numRollsToTarget(int n, int k, int target) {
         int[][] dp = new int[n+1][target+1];
-        for(int[] row : dp) Arrays.fill(row, -1);
-        return find(n, target, k, dp);
+        dp[0][0] = 1;
 
-    }
-
-    int find(int n, int t, int k, int[][] dp){
-        if(t < 0) return 0;
-        if(n == 0 && t == 0) return 1;
-        if(n == 0) return 0;
-
-        if(dp[n][t] != -1) return dp[n][t];
-        long res = 0;
-        for(int i = 1; i<=k; i++){
-            res += find(n-1, t-i, k, dp);
-            res %= mod;
+        for(int i = 1; i<=n; i++){
+            for(int j = 1; j<=target; j++){
+                long res = 0;
+                for(int l = 1; l<=k; l++){
+                    if(j-l >= 0){
+                        res += dp[i-1][j-l];
+                        res %= mod;
+                    }
+                }
+                dp[i][j] = (int)res;
+            }
         }
-        return dp[n][t] = (int)res;
+        return dp[n][target];
+
     }
 }
