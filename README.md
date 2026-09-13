@@ -29,6 +29,7 @@
 | [0260-single-number-iii](https://github.com/jayeshsolanki6/LeetCode/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/jayeshsolanki6/LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/jayeshsolanki6/LeetCode/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/jayeshsolanki6/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/jayeshsolanki6/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/jayeshsolanki6/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/jayeshsolanki6/LeetCode/tree/master/0322-coin-change) |
@@ -209,6 +210,7 @@
 | [0042-trapping-rain-water](https://github.com/jayeshsolanki6/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/jayeshsolanki6/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/jayeshsolanki6/LeetCode/tree/master/0053-maximum-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/jayeshsolanki6/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/jayeshsolanki6/LeetCode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/jayeshsolanki6/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/jayeshsolanki6/LeetCode/tree/master/0392-is-subsequence) |
@@ -382,6 +384,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/jayeshsolanki6/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/jayeshsolanki6/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/jayeshsolanki6/LeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0713-subarray-product-less-than-k](https://github.com/jayeshsolanki6/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0729-my-calendar-i](https://github.com/jayeshsolanki6/LeetCode/tree/master/0729-my-calendar-i) |
@@ -749,4 +752,8 @@
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/jayeshsolanki6/LeetCode/tree/master/0474-ones-and-zeroes) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/jayeshsolanki6/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
