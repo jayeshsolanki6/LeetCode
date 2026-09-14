@@ -23,6 +23,7 @@
 | [0200-number-of-islands](https://github.com/jayeshsolanki6/LeetCode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/jayeshsolanki6/LeetCode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/jayeshsolanki6/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0221-maximal-square](https://github.com/jayeshsolanki6/LeetCode/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/jayeshsolanki6/LeetCode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/jayeshsolanki6/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/jayeshsolanki6/LeetCode/tree/master/0239-sliding-window-maximum) |
@@ -132,6 +133,7 @@
 | [0054-spiral-matrix](https://github.com/jayeshsolanki6/LeetCode/tree/master/0054-spiral-matrix) |
 | [0130-surrounded-regions](https://github.com/jayeshsolanki6/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/jayeshsolanki6/LeetCode/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/jayeshsolanki6/LeetCode/tree/master/0221-maximal-square) |
 | [0542-01-matrix](https://github.com/jayeshsolanki6/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/jayeshsolanki6/LeetCode/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/jayeshsolanki6/LeetCode/tree/master/0778-swim-in-rising-water) |
@@ -211,6 +213,7 @@
 | [0045-jump-game-ii](https://github.com/jayeshsolanki6/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/jayeshsolanki6/LeetCode/tree/master/0053-maximum-subarray) |
 | [0091-decode-ways](https://github.com/jayeshsolanki6/LeetCode/tree/master/0091-decode-ways) |
+| [0221-maximal-square](https://github.com/jayeshsolanki6/LeetCode/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/jayeshsolanki6/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/jayeshsolanki6/LeetCode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/jayeshsolanki6/LeetCode/tree/master/0338-counting-bits) |
