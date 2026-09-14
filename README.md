@@ -12,6 +12,7 @@
 | [0054-spiral-matrix](https://github.com/jayeshsolanki6/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/jayeshsolanki6/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/jayeshsolanki6/LeetCode/tree/master/0057-insert-interval) |
+| [0064-minimum-path-sum](https://github.com/jayeshsolanki6/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/jayeshsolanki6/LeetCode/tree/master/0068-text-justification) |
 | [0078-subsets](https://github.com/jayeshsolanki6/LeetCode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jayeshsolanki6/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -131,6 +132,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/jayeshsolanki6/LeetCode/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/jayeshsolanki6/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/jayeshsolanki6/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/jayeshsolanki6/LeetCode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/jayeshsolanki6/LeetCode/tree/master/0221-maximal-square) |
@@ -212,6 +214,7 @@
 | [0042-trapping-rain-water](https://github.com/jayeshsolanki6/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/jayeshsolanki6/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/jayeshsolanki6/LeetCode/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/jayeshsolanki6/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0091-decode-ways](https://github.com/jayeshsolanki6/LeetCode/tree/master/0091-decode-ways) |
 | [0221-maximal-square](https://github.com/jayeshsolanki6/LeetCode/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/jayeshsolanki6/LeetCode/tree/master/0300-longest-increasing-subsequence) |
