@@ -210,6 +210,7 @@
 | [0042-trapping-rain-water](https://github.com/jayeshsolanki6/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/jayeshsolanki6/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/jayeshsolanki6/LeetCode/tree/master/0053-maximum-subarray) |
+| [0091-decode-ways](https://github.com/jayeshsolanki6/LeetCode/tree/master/0091-decode-ways) |
 | [0300-longest-increasing-subsequence](https://github.com/jayeshsolanki6/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/jayeshsolanki6/LeetCode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/jayeshsolanki6/LeetCode/tree/master/0338-counting-bits) |
@@ -304,6 +305,7 @@
 | [0067-add-binary](https://github.com/jayeshsolanki6/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/jayeshsolanki6/LeetCode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/jayeshsolanki6/LeetCode/tree/master/0071-simplify-path) |
+| [0091-decode-ways](https://github.com/jayeshsolanki6/LeetCode/tree/master/0091-decode-ways) |
 | [0126-word-ladder-ii](https://github.com/jayeshsolanki6/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/jayeshsolanki6/LeetCode/tree/master/0127-word-ladder) |
 | [0179-largest-number](https://github.com/jayeshsolanki6/LeetCode/tree/master/0179-largest-number) |
