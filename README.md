@@ -17,6 +17,7 @@
 | [0078-subsets](https://github.com/jayeshsolanki6/LeetCode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jayeshsolanki6/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/jayeshsolanki6/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0120-triangle](https://github.com/jayeshsolanki6/LeetCode/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/jayeshsolanki6/LeetCode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/jayeshsolanki6/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/jayeshsolanki6/LeetCode/tree/master/0135-candy) |
@@ -216,6 +217,7 @@
 | [0053-maximum-subarray](https://github.com/jayeshsolanki6/LeetCode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/jayeshsolanki6/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0091-decode-ways](https://github.com/jayeshsolanki6/LeetCode/tree/master/0091-decode-ways) |
+| [0120-triangle](https://github.com/jayeshsolanki6/LeetCode/tree/master/0120-triangle) |
 | [0221-maximal-square](https://github.com/jayeshsolanki6/LeetCode/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/jayeshsolanki6/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/jayeshsolanki6/LeetCode/tree/master/0322-coin-change) |
