@@ -216,6 +216,7 @@
 | [0045-jump-game-ii](https://github.com/jayeshsolanki6/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/jayeshsolanki6/LeetCode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/jayeshsolanki6/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/jayeshsolanki6/LeetCode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/jayeshsolanki6/LeetCode/tree/master/0091-decode-ways) |
 | [0120-triangle](https://github.com/jayeshsolanki6/LeetCode/tree/master/0120-triangle) |
 | [0221-maximal-square](https://github.com/jayeshsolanki6/LeetCode/tree/master/0221-maximal-square) |
@@ -313,6 +314,7 @@
 | [0067-add-binary](https://github.com/jayeshsolanki6/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/jayeshsolanki6/LeetCode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/jayeshsolanki6/LeetCode/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/jayeshsolanki6/LeetCode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/jayeshsolanki6/LeetCode/tree/master/0091-decode-ways) |
 | [0126-word-ladder-ii](https://github.com/jayeshsolanki6/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/jayeshsolanki6/LeetCode/tree/master/0127-word-ladder) |
