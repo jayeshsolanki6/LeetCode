@@ -14,6 +14,7 @@
 | [0057-insert-interval](https://github.com/jayeshsolanki6/LeetCode/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/jayeshsolanki6/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/jayeshsolanki6/LeetCode/tree/master/0068-text-justification) |
+| [0075-sort-colors](https://github.com/jayeshsolanki6/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/jayeshsolanki6/LeetCode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jayeshsolanki6/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/jayeshsolanki6/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -383,6 +384,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jayeshsolanki6/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/jayeshsolanki6/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/jayeshsolanki6/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jayeshsolanki6/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/jayeshsolanki6/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/jayeshsolanki6/LeetCode/tree/master/0202-happy-number) |
@@ -437,6 +439,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/jayeshsolanki6/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/jayeshsolanki6/LeetCode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/jayeshsolanki6/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/jayeshsolanki6/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/jayeshsolanki6/LeetCode/tree/master/0179-largest-number) |
 | [0274-h-index](https://github.com/jayeshsolanki6/LeetCode/tree/master/0274-h-index) |
@@ -768,4 +771,12 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/jayeshsolanki6/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/jayeshsolanki6/LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/jayeshsolanki6/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
