@@ -718,6 +718,7 @@
 | [1158-market-analysis-i](https://github.com/jayeshsolanki6/LeetCode/tree/master/1158-market-analysis-i) |
 | [1179-reformat-department-table](https://github.com/jayeshsolanki6/LeetCode/tree/master/1179-reformat-department-table) |
 | [1341-movie-rating](https://github.com/jayeshsolanki6/LeetCode/tree/master/1341-movie-rating) |
+| [1407-top-travellers](https://github.com/jayeshsolanki6/LeetCode/tree/master/1407-top-travellers) |
 ## Queue
 |  |
 | ------- |
