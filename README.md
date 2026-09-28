@@ -339,6 +339,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/jayeshsolanki6/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/jayeshsolanki6/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jayeshsolanki6/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jayeshsolanki6/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/jayeshsolanki6/LeetCode/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2156-find-substring-with-given-hash-value](https://github.com/jayeshsolanki6/LeetCode/tree/master/2156-find-substring-with-given-hash-value) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/jayeshsolanki6/LeetCode/tree/master/2343-query-kth-smallest-trimmed-number) |
@@ -631,6 +632,7 @@
 | [0739-daily-temperatures](https://github.com/jayeshsolanki6/LeetCode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/jayeshsolanki6/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0895-maximum-frequency-stack](https://github.com/jayeshsolanki6/LeetCode/tree/master/0895-maximum-frequency-stack) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jayeshsolanki6/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -790,4 +792,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/jayeshsolanki6/LeetCode/tree/master/0141-linked-list-cycle) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jayeshsolanki6/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
