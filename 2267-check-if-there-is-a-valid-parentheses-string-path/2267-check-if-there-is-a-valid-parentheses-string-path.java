@@ -3,7 +3,9 @@ class Solution {
     public boolean hasValidPath(char[][] grid) {
         int m = grid.length;
         int n = grid[0].length;
-        if((m+n-1)%2 == 1) return false;
+        if ((m + n - 1) % 2 != 0 || grid[0][0] == ')' || grid[m - 1][n - 1] == '(') {
+            return false;
+        }
         maxOpenB = (m+n-1)/2;
         Boolean[][][] dp = new Boolean[m][n][maxOpenB+1];
 
