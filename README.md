@@ -34,6 +34,7 @@
 | [0260-single-number-iii](https://github.com/jayeshsolanki6/LeetCode/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/jayeshsolanki6/LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/jayeshsolanki6/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/jayeshsolanki6/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/jayeshsolanki6/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/jayeshsolanki6/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/jayeshsolanki6/LeetCode/tree/master/0307-range-sum-query-mutable) |
@@ -397,6 +398,7 @@
 | [0141-linked-list-cycle](https://github.com/jayeshsolanki6/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/jayeshsolanki6/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/jayeshsolanki6/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/jayeshsolanki6/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/jayeshsolanki6/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/jayeshsolanki6/LeetCode/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/jayeshsolanki6/LeetCode/tree/master/0844-backspace-string-compare) |
@@ -406,6 +408,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/jayeshsolanki6/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/jayeshsolanki6/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/jayeshsolanki6/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/jayeshsolanki6/LeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0713-subarray-product-less-than-k](https://github.com/jayeshsolanki6/LeetCode/tree/master/0713-subarray-product-less-than-k) |
@@ -509,6 +512,7 @@
 | [0067-add-binary](https://github.com/jayeshsolanki6/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/jayeshsolanki6/LeetCode/tree/master/0078-subsets) |
 | [0260-single-number-iii](https://github.com/jayeshsolanki6/LeetCode/tree/master/0260-single-number-iii) |
+| [0287-find-the-duplicate-number](https://github.com/jayeshsolanki6/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/jayeshsolanki6/LeetCode/tree/master/0338-counting-bits) |
 | [1947-maximum-compatibility-score-sum](https://github.com/jayeshsolanki6/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/jayeshsolanki6/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -796,9 +800,14 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/jayeshsolanki6/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/jayeshsolanki6/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jayeshsolanki6/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/jayeshsolanki6/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/jayeshsolanki6/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
