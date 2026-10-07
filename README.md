@@ -108,6 +108,7 @@
 | [0200-number-of-islands](https://github.com/jayeshsolanki6/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/jayeshsolanki6/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/jayeshsolanki6/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/jayeshsolanki6/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0310-minimum-height-trees](https://github.com/jayeshsolanki6/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/jayeshsolanki6/LeetCode/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/jayeshsolanki6/LeetCode/tree/master/0399-evaluate-division) |
@@ -330,6 +331,7 @@
 | [0179-largest-number](https://github.com/jayeshsolanki6/LeetCode/tree/master/0179-largest-number) |
 | [0224-basic-calculator](https://github.com/jayeshsolanki6/LeetCode/tree/master/0224-basic-calculator) |
 | [0290-word-pattern](https://github.com/jayeshsolanki6/LeetCode/tree/master/0290-word-pattern) |
+| [0301-remove-invalid-parentheses](https://github.com/jayeshsolanki6/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0383-ransom-note](https://github.com/jayeshsolanki6/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/jayeshsolanki6/LeetCode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/jayeshsolanki6/LeetCode/tree/master/0394-decode-string) |
@@ -361,6 +363,7 @@
 | ------- |
 | [0078-subsets](https://github.com/jayeshsolanki6/LeetCode/tree/master/0078-subsets) |
 | [0126-word-ladder-ii](https://github.com/jayeshsolanki6/LeetCode/tree/master/0126-word-ladder-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/jayeshsolanki6/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [1947-maximum-compatibility-score-sum](https://github.com/jayeshsolanki6/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
 ## String Matching
 |  |
