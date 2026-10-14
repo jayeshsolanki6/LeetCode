@@ -16,7 +16,7 @@ class Solution {
             long num = 0;
             for(int i = 0; i<32; i++){
                 if(bits[i] > 0){
-                    num += (1 << i);
+                    num |= (1 << i);
                     bits[i]--;
                 }
             }
