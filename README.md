@@ -364,6 +364,7 @@
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/jayeshsolanki6/LeetCode/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2156-find-substring-with-given-hash-value](https://github.com/jayeshsolanki6/LeetCode/tree/master/2156-find-substring-with-given-hash-value) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/jayeshsolanki6/LeetCode/tree/master/2343-query-kth-smallest-trimmed-number) |
+| [2409-count-days-spent-together](https://github.com/jayeshsolanki6/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/jayeshsolanki6/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jayeshsolanki6/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jayeshsolanki6/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -403,6 +404,7 @@
 | [1406-stone-game-iii](https://github.com/jayeshsolanki6/LeetCode/tree/master/1406-stone-game-iii) |
 | [1627-graph-connectivity-with-threshold](https://github.com/jayeshsolanki6/LeetCode/tree/master/1627-graph-connectivity-with-threshold) |
 | [1922-count-good-numbers](https://github.com/jayeshsolanki6/LeetCode/tree/master/1922-count-good-numbers) |
+| [2409-count-days-spent-together](https://github.com/jayeshsolanki6/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/jayeshsolanki6/LeetCode/tree/master/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jayeshsolanki6/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/jayeshsolanki6/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
