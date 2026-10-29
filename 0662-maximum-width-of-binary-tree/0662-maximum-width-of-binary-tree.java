@@ -29,12 +29,11 @@ class Solution {
 
         while(!q.isEmpty()){
             int n = q.size();
-            long left = Long.MAX_VALUE;
-            long right = Long.MIN_VALUE;
+            long left = q.peek().pos;
+            long right = left;
             for(int i = 0; i<n; i++){
                 Pair p = q.remove();
-                left = Math.min(left, p.pos);
-                right = Math.max(right, p.pos);
+                right = p.pos;
                 if(p.node.left != null){
                     q.add(new Pair(p.node.left, p.pos*2));
                 }
