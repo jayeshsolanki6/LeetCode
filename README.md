@@ -119,6 +119,7 @@
 | [0433-minimum-genetic-mutation](https://github.com/jayeshsolanki6/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/jayeshsolanki6/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0542-01-matrix](https://github.com/jayeshsolanki6/LeetCode/tree/master/0542-01-matrix) |
+| [0662-maximum-width-of-binary-tree](https://github.com/jayeshsolanki6/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/jayeshsolanki6/LeetCode/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/jayeshsolanki6/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/jayeshsolanki6/LeetCode/tree/master/0733-flood-fill) |
@@ -176,6 +177,7 @@
 | [0310-minimum-height-trees](https://github.com/jayeshsolanki6/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/jayeshsolanki6/LeetCode/tree/master/0399-evaluate-division) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/jayeshsolanki6/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/jayeshsolanki6/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/jayeshsolanki6/LeetCode/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/jayeshsolanki6/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/jayeshsolanki6/LeetCode/tree/master/0733-flood-fill) |
@@ -604,6 +606,7 @@
 | ------- |
 | [0257-binary-tree-paths](https://github.com/jayeshsolanki6/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/jayeshsolanki6/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/jayeshsolanki6/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/jayeshsolanki6/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/jayeshsolanki6/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/jayeshsolanki6/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -634,6 +637,7 @@
 | ------- |
 | [0257-binary-tree-paths](https://github.com/jayeshsolanki6/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/jayeshsolanki6/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/jayeshsolanki6/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/jayeshsolanki6/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/jayeshsolanki6/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/jayeshsolanki6/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
