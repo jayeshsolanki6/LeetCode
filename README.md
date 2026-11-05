@@ -83,6 +83,7 @@
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/jayeshsolanki6/LeetCode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/jayeshsolanki6/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1301-number-of-paths-with-max-score](https://github.com/jayeshsolanki6/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/jayeshsolanki6/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1406-stone-game-iii](https://github.com/jayeshsolanki6/LeetCode/tree/master/1406-stone-game-iii) |
 | [1627-graph-connectivity-with-threshold](https://github.com/jayeshsolanki6/LeetCode/tree/master/1627-graph-connectivity-with-threshold) |
 | [1631-path-with-minimum-effort](https://github.com/jayeshsolanki6/LeetCode/tree/master/1631-path-with-minimum-effort) |
@@ -435,6 +436,7 @@
 | [0844-backspace-string-compare](https://github.com/jayeshsolanki6/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0845-longest-mountain-in-array](https://github.com/jayeshsolanki6/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/jayeshsolanki6/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/jayeshsolanki6/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1861-rotating-the-box](https://github.com/jayeshsolanki6/LeetCode/tree/master/1861-rotating-the-box) |
 | [2540-minimum-common-value](https://github.com/jayeshsolanki6/LeetCode/tree/master/2540-minimum-common-value) |
 ## Binary Search
@@ -449,6 +451,7 @@
 | [0731-my-calendar-ii](https://github.com/jayeshsolanki6/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/jayeshsolanki6/LeetCode/tree/master/0732-my-calendar-iii) |
 | [0778-swim-in-rising-water](https://github.com/jayeshsolanki6/LeetCode/tree/master/0778-swim-in-rising-water) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/jayeshsolanki6/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1631-path-with-minimum-effort](https://github.com/jayeshsolanki6/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jayeshsolanki6/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/jayeshsolanki6/LeetCode/tree/master/2540-minimum-common-value) |
@@ -502,6 +505,7 @@
 | [1094-car-pooling](https://github.com/jayeshsolanki6/LeetCode/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/jayeshsolanki6/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/jayeshsolanki6/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/jayeshsolanki6/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jayeshsolanki6/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/jayeshsolanki6/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/jayeshsolanki6/LeetCode/tree/master/2343-query-kth-smallest-trimmed-number) |
