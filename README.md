@@ -234,6 +234,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/jayeshsolanki6/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/jayeshsolanki6/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/jayeshsolanki6/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/jayeshsolanki6/LeetCode/tree/master/0053-maximum-subarray) |
@@ -333,6 +334,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/jayeshsolanki6/LeetCode/tree/master/0006-zigzag-conversion) |
+| [0010-regular-expression-matching](https://github.com/jayeshsolanki6/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/jayeshsolanki6/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/jayeshsolanki6/LeetCode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jayeshsolanki6/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -514,6 +516,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/jayeshsolanki6/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0050-powx-n](https://github.com/jayeshsolanki6/LeetCode/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/jayeshsolanki6/LeetCode/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/jayeshsolanki6/LeetCode/tree/master/0394-decode-string) |
