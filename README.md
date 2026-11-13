@@ -100,6 +100,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/jayeshsolanki6/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jayeshsolanki6/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/jayeshsolanki6/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/jayeshsolanki6/LeetCode/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3483-unique-3-digit-even-numbers](https://github.com/jayeshsolanki6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/jayeshsolanki6/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jayeshsolanki6/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -168,6 +169,7 @@
 | [1765-map-of-highest-peak](https://github.com/jayeshsolanki6/LeetCode/tree/master/1765-map-of-highest-peak) |
 | [1861-rotating-the-box](https://github.com/jayeshsolanki6/LeetCode/tree/master/1861-rotating-the-box) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/jayeshsolanki6/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/jayeshsolanki6/LeetCode/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jayeshsolanki6/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Depth-First Search
 |  |
@@ -603,6 +605,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/jayeshsolanki6/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jayeshsolanki6/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jayeshsolanki6/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/jayeshsolanki6/LeetCode/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/jayeshsolanki6/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Counting
 |  |
