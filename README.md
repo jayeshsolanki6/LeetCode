@@ -100,6 +100,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/jayeshsolanki6/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jayeshsolanki6/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/jayeshsolanki6/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3364-minimum-positive-sum-subarray](https://github.com/jayeshsolanki6/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/jayeshsolanki6/LeetCode/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3483-unique-3-digit-even-numbers](https://github.com/jayeshsolanki6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/jayeshsolanki6/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -579,6 +580,7 @@
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/jayeshsolanki6/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jayeshsolanki6/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jayeshsolanki6/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/jayeshsolanki6/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -712,6 +714,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/jayeshsolanki6/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1094-car-pooling](https://github.com/jayeshsolanki6/LeetCode/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/jayeshsolanki6/LeetCode/tree/master/1109-corporate-flight-bookings) |
+| [3364-minimum-positive-sum-subarray](https://github.com/jayeshsolanki6/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Bitmask
 |  |
 | ------- |
