@@ -17,6 +17,6 @@ class Solution {
             }
             res %= mod;
         }
-        return (int)(res%mod);
+        return (int)res;
     }
 }
