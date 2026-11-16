@@ -376,6 +376,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jayeshsolanki6/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/jayeshsolanki6/LeetCode/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2156-find-substring-with-given-hash-value](https://github.com/jayeshsolanki6/LeetCode/tree/master/2156-find-substring-with-given-hash-value) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/jayeshsolanki6/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/jayeshsolanki6/LeetCode/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2409-count-days-spent-together](https://github.com/jayeshsolanki6/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/jayeshsolanki6/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -749,6 +750,7 @@
 | [0068-text-justification](https://github.com/jayeshsolanki6/LeetCode/tree/master/0068-text-justification) |
 | [0844-backspace-string-compare](https://github.com/jayeshsolanki6/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1094-car-pooling](https://github.com/jayeshsolanki6/LeetCode/tree/master/1094-car-pooling) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/jayeshsolanki6/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2402-meeting-rooms-iii](https://github.com/jayeshsolanki6/LeetCode/tree/master/2402-meeting-rooms-iii) |
 ## Binary Indexed Tree
 |  |
