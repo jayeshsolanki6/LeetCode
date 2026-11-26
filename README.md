@@ -427,6 +427,7 @@
 | [2409-count-days-spent-together](https://github.com/jayeshsolanki6/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/jayeshsolanki6/LeetCode/tree/master/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jayeshsolanki6/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3360-stone-removal-game](https://github.com/jayeshsolanki6/LeetCode/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/jayeshsolanki6/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/jayeshsolanki6/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/jayeshsolanki6/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -762,6 +763,7 @@
 | [1094-car-pooling](https://github.com/jayeshsolanki6/LeetCode/tree/master/1094-car-pooling) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/jayeshsolanki6/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2402-meeting-rooms-iii](https://github.com/jayeshsolanki6/LeetCode/tree/master/2402-meeting-rooms-iii) |
+| [3360-stone-removal-game](https://github.com/jayeshsolanki6/LeetCode/tree/master/3360-stone-removal-game) |
 ## Binary Indexed Tree
 |  |
 | ------- |
